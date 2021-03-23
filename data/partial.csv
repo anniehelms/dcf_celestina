@@ -1,0 +1,856 @@
+context_small,context_large,word,prev,prev_fav,fol,fol_fav,frequency,freq_log_ppm,count,frequency_ppm,hapax,stress,fav_num
+de Milan: mas en los claros i,herrerias de Milan: mas en los claros ingenios de doctos varones,claros,s,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,0
+de Milan: mas en los claros i,herrerias de Milan: mas en los claros ingenios de doctos varones,claros,s,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,1
+tificio: su fuerte e claro m,: sotil artificio: su fuerte e claro metal: su modo e manera de,claro,e,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+tificio: su fuerte e claro m,: sotil artificio: su fuerte e claro metal: su modo e manera de,claro,e,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+las de su perdicion: lleuaronla e,"tose con alas de su perdicion: lleuaronla en alto, no sabe dondyr. P",lleuaronla,:,no,e,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+"ue ella, por ceuo la lleuan: ","rtes mas que ella, por ceuo la lleuan: en las nueuas alas estaua",lleuan,a,yes,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,4
+on es que aplique mi pluma e," dano: razon es que aplique mi pluma este engano, no dissimulan",pluma,i,no,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+on es que aplique mi pluma e," dano: razon es que aplique mi pluma este engano, no dissimulan",pluma,i,no,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,2
+"estruyen: nublosas & flacas, ","mis alas destruyen: nublosas & flacas, nascidas de ogano. Prosig",flacas,&,no,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+"estruyen: nublosas & flacas, ","mis alas destruyen: nublosas & flacas, nascidas de ogano. Prosig",flacas,&,no,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,1
+rga: desta manera la pluma s,"lud se alarga: desta manera la pluma se embarga, imponiendo dic",pluma,a,yes,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+rga: desta manera la pluma s,"lud se alarga: desta manera la pluma se embarga, imponiendo dic",pluma,a,yes,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,2
+i que esta obra a mi flaco e,"nte. Y assi que esta obra a mi flaco entender fue tanto breue, ",flaco,i,no,a,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,0
+i que esta obra a mi flaco e,"nte. Y assi que esta obra a mi flaco entender fue tanto breue, ",flaco,i,no,a,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,2
+"de gracias, labor de plazer: "," en forro de gracias, labor de plazer: no hizo Dedalo en su offi",plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+"de gracias, labor de plazer: "," en forro de gracias, labor de plazer: no hizo Dedalo en su offi",plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+"as y lanza, azotes y clauos s"," que espinas y lanza, azotes y clauos su sangre vertieron; la su",clauos,y,no,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+intio vn ladron; nos lleue l,stado consintio vn ladron; nos lleue le ruego con los quel crey,lleue,s,no,e,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+intio vn ladron; nos lleue l,stado consintio vn ladron; nos lleue le ruego con los quel crey,lleue,s,no,e,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,2
+alas de su perdicion lleuaronla e,ctose con alas de su perdicion lleuaronla en alto no sabe donde yr. ,lleuaronla,n,no,e,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+que ella por ceuo la lleuan e,ertes mas que ella por ceuo la lleuan en las nueuas alas estaua ,lleuan,a,yes,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,4
+ es que aplique a mi pluma e,ano: razon es que aplique a mi pluma este engano no despreciand,pluma,i,no,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+ es que aplique a mi pluma e,ano: razon es que aplique a mi pluma este engano no despreciand,pluma,i,no,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,2
+destruyen nublosas e flacas n, mis alas destruyen nublosas e flacas nascidas de ogano. Prosigu,flacas,e,yes,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+destruyen nublosas e flacas n, mis alas destruyen nublosas e flacas nascidas de ogano. Prosigu,flacas,e,yes,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,1
+rga: desta manera mi pluma s,lud se alarga: desta manera mi pluma se embarga imponiendo dich,pluma,i,no,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+rga: desta manera mi pluma s,lud se alarga: desta manera mi pluma se embarga imponiendo dich,pluma,i,no,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,2
+ de gracias lauor de plazer: ,l en forro de gracias lauor de plazer: no hizo Dedalo cierto a m,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ de gracias lauor de plazer: ,l en forro de gracias lauor de plazer: no hizo Dedalo cierto a m,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ue de muy hinchada y llena q,e dezir: que de muy hinchada y llena quiere rebentar: echando d,llena,y,no,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,7
+ue de muy hinchada y llena q,e dezir: que de muy hinchada y llena quiere rebentar: echando d,llena,y,no,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,0
+ de aquellos que por claror d,los dichos de aquellos que por claror de sus ingenios meresciero,claror,r,no,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+errae tremunt. maria fluctuant a,fligunt. terrae tremunt. maria fluctuant aer quatitur. crepant flam,fluctuant,a,yes,u,no,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+er quatitur. crepant flammae. ,luctuant aer quatitur. crepant flammae. bellum immortale venti ge,flammae,t,no,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+e sacude: suenan las llamas: , el ayre se sacude: suenan las llamas: los vientos entre si trae,llamas,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,0
+e sacude: suenan las llamas: , el ayre se sacude: suenan las llamas: los vientos entre si trae,llamas,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,3
+ de tras el fuego yo llegaria m,se conseja de tras el fuego yo llegaria mas al cabo esta cuenta. E,llegaria,o,yes,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+s de vn pequeno pece llamado e, marauillas de vn pequeno pece llamado echeneis: quanto sea apta ,llamado,e,yes,a,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,5
+s de vn pequeno pece llamado e, marauillas de vn pequeno pece llamado echeneis: quanto sea apta ,llamado,e,yes,a,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,0
+ a cazar. De vna ave llamada R,los vienen a cazar. De vna ave llamada Rocho que nace en el Indic,llamada,e,yes,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,4
+ a cazar. De vna ave llamada R,los vienen a cazar. De vna ave llamada Rocho que nace en el Indic,llamada,e,yes,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+eza jamas oyda e que lleva s,r de grandeza jamas oyda e que lleva sobre su pico fasta las nu,lleva,e,yes,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+es que desta nuestra flaca h,e variedades que desta nuestra flaca humanidad nos prouienen: e,flaca,a,yes,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+es que desta nuestra flaca h,e variedades que desta nuestra flaca humanidad nos prouienen: e,flaca,a,yes,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+ para cuyo verdadero plazer e,o aquellos para cuyo verdadero plazer es todo: desechan el cuent,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ para cuyo verdadero plazer e,o aquellos para cuyo verdadero plazer es todo: desechan el cuent,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+do que no se auia de llamar C,re: diziendo que no se auia de llamar Comedia: pues acabaua en t,llamar,e,yes,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,6
+do que no se auia de llamar C,re: diziendo que no se auia de llamar Comedia: pues acabaua en t,llamar,e,yes,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,0
+risteza: sino que se llamasse T,abaua en tristeza: sino que se llamasse Tragedia. El primer autor ,llamasse,e,yes,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+el principio que fue plazer e,minacion del principio que fue plazer e llamola Comedia. yo vien,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+el principio que fue plazer e,minacion del principio que fue plazer e llamola Comedia. yo vien,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ llamola C,e plazer e llamola Comedia. yo viendo estas d,llamola,e,yes,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+r medio la porfia: e llamela T,i agora por medio la porfia: e llamela Tragicomedia. Assi que vie,llamela,e,yes,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+meter segunda vez la pluma e, voluntad meter segunda vez la pluma en tan estrana lauor e tan,pluma,a,yes,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+meter segunda vez la pluma e, voluntad meter segunda vez la pluma en tan estrana lauor e tan,pluma,a,yes,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,2
+ de noble linaje: de claro i,alisto fue de noble linaje: de claro ingenio: de gentil disposi,claro,e,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+ de noble linaje: de claro i,alisto fue de noble linaje: de claro ingenio: de gentil disposi,claro,e,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+o con vn criado suyo llamado S,iado. hablo con vn criado suyo llamado Sempronio. el qual despues,llamado,o,yes,a,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,5
+o con vn criado suyo llamado S,iado. hablo con vn criado suyo llamado Sempronio. el qual despues,llamado,o,yes,a,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,0
+enderezo a vna vieja llamada C,azones le enderezo a vna vieja llamada Celestina: en cuya casa te,llamada,a,yes,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,4
+enderezo a vna vieja llamada C,azones le enderezo a vna vieja llamada Celestina: en cuya casa te,llamada,a,yes,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+criado vna enamorada llamada E, el mesmo criado vna enamorada llamada Elicia: la qual viniendo S,llamada,a,yes,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,4
+criado vna enamorada llamada E, el mesmo criado vna enamorada llamada Elicia: la qual viniendo S,llamada,a,yes,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+tenia a otro consigo llamado C,de su amo tenia a otro consigo llamado Crito: al qual escondieron,llamado,o,yes,a,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,5
+tenia a otro consigo llamado C,de su amo tenia a otro consigo llamado Crito: al qual escondieron,llamado,o,yes,a,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,0
+iento dura fasta que llega S,al razonamiento dura fasta que llega Sempronio e Celestina a ca,llega,e,yes,e,yes,716.3009633517038,6.5741004185192695,49,716.3009633517038,no,stressed,3
+ste vn poco. dexemos llorar a,enconan. este vn poco. dexemos llorar al que dolor tiene: que la,llorar,s,no,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+ste vn poco. dexemos llorar a,enconan. este vn poco. dexemos llorar al que dolor tiene: que la,llorar,s,no,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+en puedan sus cuytas llorar. ,er con quien puedan sus cuytas llorar. Y que la llaga interior m,llorar,s,no,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+en puedan sus cuytas llorar. ,er con quien puedan sus cuytas llorar. Y que la llaga interior m,llorar,s,no,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+Y que la llaga i,s llorar. Y que la llaga interior mas empece. Pues ,llaga,s,no,o,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+Y que la llaga i,s llorar. Y que la llaga interior mas empece. Pues ,llaga,s,no,o,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+lo dire: mayor es la llama q,mo? yo te lo dire: mayor es la llama que dura ochenta anos que ,llama,a,yes,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+lo dire: mayor es la llama q,mo? yo te lo dire: mayor es la llama que dura ochenta anos que ,llama,a,yes,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+za / o pertinacia la llaman e,a mas dureza / o pertinacia la llaman en mi tierra. Vosotros los,llaman,a,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,9
+za / o pertinacia la llaman e,a mas dureza / o pertinacia la llaman en mi tierra. Vosotros los,llaman,a,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+ filosofos de Cupido llamalda c,sotros los filosofos de Cupido llamalda como quisierdes. CAL.--tor,llamalda,o,yes,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+la imperfecion de la flaca m, hombre a la imperfecion de la flaca muger. CAL.--muger? o gros,flaca,a,yes,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+la imperfecion de la flaca m, hombre a la imperfecion de la flaca muger. CAL.--muger? o gros,flaca,a,yes,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+oda tu vida auias de llorar? ,ues que: toda tu vida auias de llorar? CAL.--si. SEMP.--porque? ,llorar,e,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+oda tu vida auias de llorar? ,ues que: toda tu vida auias de llorar? CAL.--si. SEMP.--porque? ,llorar,e,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+os: mira los poetas: llenos e,os filosofos: mira los poetas: llenos estan los libros de sus vi,llenos,:,no,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+os: mira los poetas: llenos e,os filosofos: mira los poetas: llenos estan los libros de sus vi,llenos,:,no,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,1
+ Combidan. despiden. llaman. , la calle. Combidan. despiden. llaman. niegan. senalan amor. pro,llaman,.,no,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,9
+ Combidan. despiden. llaman. , la calle. Combidan. despiden. llaman. niegan. senalan amor. pro,llaman,.,no,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+o que quieren. O que plaga. ,adeuinen lo que quieren. O que plaga. o que enojo. o que fastio,plaga,e,yes,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+ro eres hombre: e de claro i,"? lo primero eres hombre: e de claro ingenio: e mas, a quien la",claro,e,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+ro eres hombre: e de claro i,"? lo primero eres hombre: e de claro ingenio: e mas, a quien la",claro,e,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+" digas, que muy gran plazer h","--dixe que digas, que muy gran plazer haure de lo oyr. Assi te m",plazer,n,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+" digas, que muy gran plazer h","--dixe que digas, que muy gran plazer haure de lo oyr. Assi te m",plazer,n,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+L.--pues porque ayas plazer: ,de oyr. CAL.--pues porque ayas plazer: yo lo figurare por partes,plazer,s,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+L.--pues porque ayas plazer: ,de oyr. CAL.--pues porque ayas plazer: yo lo figurare por partes,plazer,s,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+jos? SEMP.--con ojos claros. ,"-con que ojos? SEMP.--con ojos claros. CAL.--e agora, con que la",claros,s,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,0
+jos? SEMP.--con ojos claros. ,"-con que ojos? SEMP.--con ojos claros. CAL.--e agora, con que la",claros,s,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,1
+s. De la burla yo me lleuo l,"ue me daras. De la burla yo me lleuo lo mejor: con todo, si des",lleuo,e,yes,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,6
+s. De la burla yo me lleuo l,"ue me daras. De la burla yo me lleuo lo mejor: con todo, si des",lleuo,e,yes,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,0
+n los principios las llagas: ,os danan en los principios las llagas: e encarecen el prometimie,llagas,s,no,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+r? CAL.--a la puerta llaman; ,"e es, senor? CAL.--a la puerta llaman; corre. PARM.--quien es? S",llaman,a,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,9
+r? CAL.--a la puerta llaman; ,"e es, senor? CAL.--a la puerta llaman; corre. PARM.--quien es? S",llaman,a,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+sta el nombre que la llame? , orejas desta el nombre que la llame? no lo creas: que assi se ,llame,a,yes,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,4
+"RM.--senor, yua a la plaza e","eruias? PARM.--senor, yua a la plaza e trayale de comer: e acom",plaza,a,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,7
+ que entrauan alli a llorar s,"satacados: que entrauan alli a llorar sus pecados. que trafagos,",llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+ que entrauan alli a llorar s,"satacados: que entrauan alli a llorar sus pecados. que trafagos,",llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+es. Tenia vna camara llena d,"s, mosquetes. Tenia vna camara llena de alambiques, de redomill",llena,a,yes,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,7
+es. Tenia vna camara llena d,"s, mosquetes. Tenia vna camara llena de alambiques, de redomill",llena,a,yes,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,0
+"ujelladas, cerillas, llanillas, ","entadas, bujelladas, cerillas, llanillas, vnturillas, lustres, luze",llanillas,",",no,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+"lustres, luzentores, clarimientes, ","turillas, lustres, luzentores, clarimientes, alualinos. E otras aguas ",clarimientes,",",no,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+"ol, de madreselua, e clauellinas, ","n, de trebol, de madreselua, e clauellinas, mosquetas e almizcladas, ",clauellinas,e,yes,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+"ntrillo, coronillas, flor d","scos, culantrillo, coronillas, flor de sauco e de mostaza, esp",flor,",",no,o,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+"ntrillo, coronillas, flor d","scos, culantrillo, coronillas, flor de sauco e de mostaza, esp",flor,",",no,o,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,2
+"tarosa e gramonilla, flor s","lanco, tortarosa e gramonilla, flor saluaje, e higueruela, pic",flor,",",no,o,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+"tarosa e gramonilla, flor s","lanco, tortarosa e gramonilla, flor saluaje, e higueruela, pic",flor,",",no,o,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,2
+"a, soga de ahorcado, flor d","uija marina, soga de ahorcado, flor de yedra, espina de erizo,",flor,",",no,o,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+"a, soga de ahorcado, flor d","uija marina, soga de ahorcado, flor de yedra, espina de erizo,",flor,",",no,o,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,2
+os corazones de cera llenos d,os daua vnos corazones de cera llenos de agujas quebradas. e otr,llenos,a,yes,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+os corazones de cera llenos d,os daua vnos corazones de cera llenos de agujas quebradas. e otr,llenos,a,yes,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,1
+ cosas en barro e en plomo h,"s. e otras cosas en barro e en plomo hechas, muy espantables al",plomo,n,no,o,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+s sobre buen natural florescen: , costumbres sobre buen natural florescen: como el buen natural sea ,florescen,l,no,o,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+e aca por dexar este pleyto i, yo no vine aca por dexar este pleyto indeciso: o morir en la de,pleyto,e,yes,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+e aca por dexar este pleyto i, yo no vine aca por dexar este pleyto indeciso: o morir en la de,pleyto,e,yes,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,2
+"or. CAL.--que hazes, llaue d","SEMP.--senor. CAL.--que hazes, llaue de mi vida? abre. O Parmen",llaue,",",no,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+ de mi muerte. Deseo llegar a,esurrecion de mi muerte. Deseo llegar a ti. Cobdicio besar essas,llegar,o,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,9
+ de mi muerte. Deseo llegar a,esurrecion de mi muerte. Deseo llegar a ti. Cobdicio besar essas,llegar,o,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,0
+io besar essas manos llenas d,ti. Cobdicio besar essas manos llenas de remedio. la indignidad ,llenas,s,no,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+"ven comigo: trae las llaues, ","AL.--pues ven comigo: trae las llaues, que yo sanare su duda. SE",llaues,s,no,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+ juzgues por eso por flaco: ,o: e no lo juzgues por eso por flaco: que el amor imperuio toda,flaco,r,no,a,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,0
+ juzgues por eso por flaco: ,o: e no lo juzgues por eso por flaco: que el amor imperuio toda,flaco,r,no,a,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,2
+o vegetatiuo algunas plantas h,as. E en lo vegetatiuo algunas plantas han este respeto: si sin i,plantas,s,no,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+itos en tal gestico: llegate a,"ezico, lobitos en tal gestico: llegate aca, putico, que no sabes ",llegate,:,no,e,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,0
+itos en tal gestico: llegate a,"ezico, lobitos en tal gestico: llegate aca, putico, que no sabes ",llegate,:,no,e,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,1
+a mala me mate si te llego a,". Mas rauia mala me mate si te llego a mi, avnque vieja: que la",llego,e,yes,e,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,4
+"do sufrir: digolo, e lloro. "," no lo puedo sufrir: digolo, e lloro. CEL.--Parmeno: tu no vees",lloro,e,yes,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+"do sufrir: digolo, e lloro. "," no lo puedo sufrir: digolo, e lloro. CEL.--Parmeno: tu no vees",lloro,e,yes,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+s necedad o simpleza llorar p,vees que es necedad o simpleza llorar por lo que con llorar no s,llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+s necedad o simpleza llorar p,vees que es necedad o simpleza llorar por lo que con llorar no s,llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+or lo que con llorar n,a llorar por lo que con llorar no se puede remediar? PARM,llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+or lo que con llorar n,a llorar por lo que con llorar no se puede remediar? PARM,llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+iar? PARM.--por esso lloro: ,uede remediar? PARM.--por esso lloro: que si con llorar fuesse ,lloro,o,yes,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+iar? PARM.--por esso lloro: ,uede remediar? PARM.--por esso lloro: que si con llorar fuesse ,lloro,o,yes,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+que si con llorar f,so lloro: que si con llorar fuesse possible traer a mi,llorar,o,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+que si con llorar f,so lloro: que si con llorar fuesse possible traer a mi,llorar,o,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+ tan grande seria el plazer d,l remedio: tan grande seria el plazer de la tal esperanza: que d,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ tan grande seria el plazer d,l remedio: tan grande seria el plazer de la tal esperanza: que d,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ue de gozo no podria llorar. ,peranza: que de gozo no podria llorar. pero assi perdida ya la e,llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+ue de gozo no podria llorar. ,peranza: que de gozo no podria llorar. pero assi perdida ya la e,llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+ pierdo el alegria e lloro. ,esperanza: pierdo el alegria e lloro. CEL.--lloraras sin prouec,lloro,e,yes,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+ pierdo el alegria e lloro. ,esperanza: pierdo el alegria e lloro. CEL.--lloraras sin prouec,lloro,e,yes,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+prouecho: por lo que llorando e,raras sin prouecho: por lo que llorando estoruar no podras: ni san,llorando,e,yes,o,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+prouecho: por lo que llorando e,raras sin prouecho: por lo que llorando estoruar no podras: ni san,llorando,e,yes,o,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,3
+ano es en mano desta flaca v,oder ser sano es en mano desta flaca vieja. PARM.--mas desta fl,flaca,a,yes,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+ano es en mano desta flaca v,oder ser sano es en mano desta flaca vieja. PARM.--mas desta fl,flaca,a,yes,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+ja. PARM.--mas desta flaca p, flaca vieja. PARM.--mas desta flaca puta vieja. CEL.--putos di,flaca,a,yes,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+ja. PARM.--mas desta flaca p, flaca vieja. PARM.--mas desta flaca puta vieja. CEL.--putos di,flaca,a,yes,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+" avnque a vn fin soy llamada, ","ucha; que, avnque a vn fin soy llamada, a otro so venida: e mague",llamada,y,no,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,4
+" avnque a vn fin soy llamada, ","ucha; que, avnque a vn fin soy llamada, a otro so venida: e mague",llamada,y,no,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+a tal copia de oro e plata q,o encerrada tal copia de oro e plata que basta mas que la renta,plata,e,yes,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,2
+"i, e con mi promessa lleuo d","elo prometi, e con mi promessa lleuo descanso: e la fe es de gu",lleuo,a,yes,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,6
+"i, e con mi promessa lleuo d","elo prometi, e con mi promessa lleuo descanso: e la fe es de gu",lleuo,a,yes,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,0
+: hasta agora que ha plazido a,e quantias: hasta agora que ha plazido aquel que todos los cuydad,plazido,a,yes,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,3
+manjares. e nunca la llaga v,on de los manjares. e nunca la llaga viene a cicatrizar: en la ,llaga,a,yes,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+manjares. e nunca la llaga v,on de los manjares. e nunca la llaga viene a cicatrizar: en la ,llaga,a,yes,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+an. ni conualesce la planta q,s se tientan. ni conualesce la planta que muchas vezes es traspu,planta,a,yes,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,1
+"n prouechosa, que en llegando a","ay cosa tan prouechosa, que en llegando aproueche: por tanto, mi h",llegando,n,no,e,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+stancia. no viuas en flores. , ellos constancia. no viuas en flores. dexa los vanos prometimie,flores,n,no,o,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,0
+stancia. no viuas en flores. , ellos constancia. no viuas en flores. dexa los vanos prometimie,flores,n,no,o,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,1
+ para todo linaje de plazer: ,dispuestos para todo linaje de plazer: en que mas los mozos que ,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ para todo linaje de plazer: ,dispuestos para todo linaje de plazer: en que mas los mozos que ,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+as voluntades de los flacos: , e tomar las voluntades de los flacos: e con poluos de sabroso a,flacos,s,no,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+as voluntades de los flacos: , e tomar las voluntades de los flacos: e con poluos de sabroso a,flacos,s,no,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,1
+E los ancianos somos llamados p,s viejos. E los ancianos somos llamados padres. E los buenos padre,llamados,s,no,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+ fijos de dios seran llamados. ,ficos: que fijos de dios seran llamados. Amor no se deue rehuyr: c,llamados,n,no,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+gun el deseo de como llego v,"auilla, segun el deseo de como llego viuo: recibe la dadiua pob",llego,o,yes,e,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,4
+na luz nunca te hara claro s,que la agena luz nunca te hara claro si la propia no tienes. E ,claro,a,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+na luz nunca te hara claro s,que la agena luz nunca te hara claro si la propia no tienes. E ,claro,a,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+ no te estimes en la claridad d," por tanto no te estimes en la claridad de tu padre, que tan magni",claridad,a,yes,a,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,4
+ no te estimes en la claridad d," por tanto no te estimes en la claridad de tu padre, que tan magni",claridad,a,yes,a,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+to: pues el comienzo lleuo b,n por cierto: pues el comienzo lleuo bueno: el fin sera muy mej,lleuo,o,yes,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,6
+to: pues el comienzo lleuo b,n por cierto: pues el comienzo lleuo bueno: el fin sera muy mej,lleuo,o,yes,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,0
+ana quien te allegue plazeres: ,o te acompana quien te allegue plazeres: diga donayres: tanga canc,plazeres,e,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,0
+ana quien te allegue plazeres: ,o te acompana quien te allegue plazeres: diga donayres: tanga canc,plazeres,e,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,3
+s que aliuia la pena llorar l,"e, no sabes que aliuia la pena llorar la causa? quanto es dulce ",llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+s que aliuia la pena llorar l,"e, no sabes que aliuia la pena llorar la causa? quanto es dulce ",llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+ sientes mi soledad: llama a,"pues tanto sientes mi soledad: llama a Parmeno, quedara comigo:",llama,:,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+ sientes mi soledad: llama a,"pues tanto sientes mi soledad: llama a Parmeno, quedara comigo:",llama,:,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+cinco. PARM.--ya las lloras: ,ue a otra cinco. PARM.--ya las lloras: duelos tenemos: en casa s,lloras,s,no,o,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+cinco. PARM.--ya las lloras: ,ue a otra cinco. PARM.--ya las lloras: duelos tenemos: en casa s,lloras,s,no,o,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,2
+ias aquella ardiente llaga q,gua rociarias aquella ardiente llaga que la cruel frecha de Cup,llaga,e,yes,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+ias aquella ardiente llaga q,gua rociarias aquella ardiente llaga que la cruel frecha de Cup,llaga,e,yes,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+e que esta mi pena e flutuoso d,. pues sabe que esta mi pena e flutuoso dolor no se rige por razon,flutuoso,e,yes,u,no,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+"anado. PARM.--senor, flaca e"," mal acompanado. PARM.--senor, flaca es la fidelidad que temor ",flaca,",",no,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+"anado. PARM.--senor, flaca e"," mal acompanado. PARM.--senor, flaca es la fidelidad que temor ",flaca,",",no,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+ amor / encienden tu llama /, abiuan tu amor / encienden tu llama / anaden astillas: que ten,llama,u,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+ amor / encienden tu llama /, abiuan tu amor / encienden tu llama / anaden astillas: que ten,llama,u,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+pues a los traydores llaman d,la gente. pues a los traydores llaman discretos / a los fieles n,llaman,s,no,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,9
+pues a los traydores llaman d,la gente. pues a los traydores llaman discretos / a los fieles n,llaman,s,no,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+. SEMP.--Que espacio lleua l,NA. ELICIA. SEMP.--Que espacio lleua la baruuda: menos sosiego ,lleua,o,yes,e,yes,453.1699972225065,6.116267324893789,31,453.1699972225065,no,stressed,4
+comportable: ninguna llaga t,"e: e faga comportable: ninguna llaga tanto se sintio, que por l",llaga,a,yes,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+comportable: ninguna llaga t,"e: e faga comportable: ninguna llaga tanto se sintio, que por l",llaga,a,yes,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+xase su tormento: ni plazer t,po no afloxase su tormento: ni plazer tan alegre fue que no le a,plazer,i,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+xase su tormento: ni plazer t,po no afloxase su tormento: ni plazer tan alegre fue que no le a,plazer,i,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+manana: la puente es lleuada: ,clipse ay manana: la puente es lleuada: aquel es ya obispo: a Ped,lleuada,s,no,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+cada vno a el con su pleyto: ,ssi verna cada vno a el con su pleyto: e a Celestina con sus amo,pleyto,u,no,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+cada vno a el con su pleyto: ,ssi verna cada vno a el con su pleyto: e a Celestina con sus amo,pleyto,u,no,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,2
+os solazes: nuestros plazeres: ,mos nuestros solazes: nuestros plazeres: nuestros consejos e conci,plazeres,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,0
+os solazes: nuestros plazeres: ,mos nuestros solazes: nuestros plazeres: nuestros consejos e conci,plazeres,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,3
+o pensaua que no era llegada: ,ria. quando pensaua que no era llegada: era de buelta. Alla la co,llegada,a,yes,e,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+o pensaua que no era llegada: ,ria. quando pensaua que no era llegada: era de buelta. Alla la co,llegada,a,yes,e,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,2
+mo sobre vna taza de plata s, vezes: como sobre vna taza de plata su palabra era prenda de o,plata,e,yes,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,2
+ tu amo quedasse sin pluma: , cargo que tu amo quedasse sin pluma: e nosotros sin quexa: per,pluma,n,no,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+ tu amo quedasse sin pluma: , cargo que tu amo quedasse sin pluma: e nosotros sin quexa: per,pluma,n,no,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,2
+la moneda: e dure el pleyto l,andar. bulla moneda: e dure el pleyto lo que durare: todo lo pue,pleyto,l,no,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+la moneda: e dure el pleyto l,andar. bulla moneda: e dure el pleyto lo que durare: todo lo pue,pleyto,l,no,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,2
+"s esta, si a dios ha plazido, ","ibea: no es esta, si a dios ha plazido, la primera a quien yo he ",plazido,a,yes,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,3
+es salir el alma: su claridad l," quiereseles salir el alma: su claridad les escuresce el corazon.""",claridad,u,no,a,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,4
+es salir el alma: su claridad l," quiereseles salir el alma: su claridad les escuresce el corazon.""",claridad,u,no,a,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+ ha de halagar. Aqui lleuo v,al cabo me ha de halagar. Aqui lleuo vn poco de hilado en esta ,lleuo,i,no,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,6
+ ha de halagar. Aqui lleuo v,al cabo me ha de halagar. Aqui lleuo vn poco de hilado en esta ,lleuo,i,no,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,0
+or lana e vengas sin pluma. ,"no vayas por lana e vengas sin pluma. CEL.--sin pluma, fijo? SE",pluma,n,no,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+or lana e vengas sin pluma. ,"no vayas por lana e vengas sin pluma. CEL.--sin pluma, fijo? SE",pluma,n,no,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,2
+"CEL.--sin pluma, ","in pluma. CEL.--sin pluma, fijo? SEMP.--o emplumada,",pluma,n,no,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+"CEL.--sin pluma, ","in pluma. CEL.--sin pluma, fijo? SEMP.--o emplumada,",pluma,n,no,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,2
+"a otra noche, quando llouia e","el campo la otra noche, quando llouia e hazia escuro: e abre el ",llouia,o,yes,o,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+"ina, tu mas conocida clientula: ","Yo, Celestina, tu mas conocida clientula: te conjuro por la virtud ",clientula,a,yes,i,no,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+ilado: donde creo te lleuo y,a con mi hilado: donde creo te lleuo ya embuelto. ARGUMENTO DEL,lleuo,e,yes,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,6
+ilado: donde creo te lleuo y,a con mi hilado: donde creo te lleuo ya embuelto. ARGUMENTO DEL,lleuo,e,yes,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,0
+"consigo misma, fasta llegar a","ino habla consigo misma, fasta llegar a la puerta de Pleberio, o",llegar,a,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,9
+"consigo misma, fasta llegar a","ino habla consigo misma, fasta llegar a la puerta de Pleberio, o",llegar,a,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,0
+Viene vn mensajero a llamar a, en casa. Viene vn mensajero a llamar a Alisa. vase. queda Celes,llamar,a,yes,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,6
+Viene vn mensajero a llamar a, en casa. Viene vn mensajero a llamar a Alisa. vase. queda Celes,llamar,a,yes,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,0
+e topado: a los tres llaman J,bres que he topado: a los tres llaman Juanes: y los dos son corn,llaman,s,no,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,9
+e topado: a los tres llaman J,bres que he topado: a los tres llaman Juanes: y los dos son corn,llaman,s,no,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+os. e avn algunos la llaman l,. cura ninos. e avn algunos la llaman la vieja lapidaria. ALI.--,llaman,a,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,9
+os. e avn algunos la llaman l,. cura ninos. e avn algunos la llaman la vieja lapidaria. ALI.--,llaman,a,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+" que viene su paje a llamarme, "," e tambien que viene su paje a llamarme, que se le arrezio desde v",llamarme,a,yes,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,2
+ nunca / no la dexes lleuamela d,"tiempo / o nunca / no la dexes lleuamela de aqui: a quien digo."" AL",lleuamela,s,no,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+ su noble juuentud e florida m,dexe gozar su noble juuentud e florida mocedad: que es el tiempo ,florida,e,yes,o,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,2
+el tiempo en que mas plazeres e,d: que es el tiempo en que mas plazeres e mayores deleytes se alca,plazeres,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,0
+el tiempo en que mas plazeres e,d: que es el tiempo en que mas plazeres e mayores deleytes se alca,plazeres,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,3
+s: congoxa continua: llaga i,e renzillas: congoxa continua: llaga incurable. manzilla de lo ,llaga,:,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+s: congoxa continua: llaga i,e renzillas: congoxa continua: llaga incurable. manzilla de lo ,llaga,:,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+hoza sin rama que se llueue p, muerte. choza sin rama que se llueue por cada parte. cayado de ,llueue,e,yes,u,no,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+rto trabajo. dessean llegar a,dessean harto trabajo. dessean llegar alla porque llegando viuen,llegar,n,no,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,9
+rto trabajo. dessean llegar a,dessean harto trabajo. dessean llegar alla porque llegando viuen,llegar,n,no,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,0
+lla porque llegando v,n llegar alla porque llegando viuen: e el viuir es dulce,llegando,n,no,e,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+cer de fuerza. aquel flaco a,aquel carecer de fuerza. aquel flaco andar. aquel espacioso com,flaco,l,no,a,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,0
+cer de fuerza. aquel flaco a,aquel carecer de fuerza. aquel flaco andar. aquel espacioso com,flaco,l,no,a,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,2
+e / a todos quita el plazer e,o la muerte / a todos quita el plazer e a las buenas costumbres:,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+e / a todos quita el plazer e,o la muerte / a todos quita el plazer e a las buenas costumbres:,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+: tambien hasme dado plazer c,conoscerte: tambien hasme dado plazer con tus razones: toma tu d,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+: tambien hasme dado plazer c,conoscerte: tambien hasme dado plazer con tus razones: toma tu d,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ro en mi casa: e vno lleno e,aua vn cuero en mi casa: e vno lleno e otro vazio: jamas me aco,lleno,o,yes,e,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,4
+ boca salida: que le lleue m,e tu noble boca salida: que le lleue metida en mi seno: tiene p,lleue,e,yes,e,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+ boca salida: que le lleue m,e tu noble boca salida: que le lleue metida en mi seno: tiene p,lleue,e,yes,e,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,2
+: que no participe e llame l,gallo come: que no participe e llame las gallinas a comer dello,llame,e,yes,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,4
+o: gentil hombre: de clara s,ero mancebo: gentil hombre: de clara sangre: que llaman Calisto,clara,e,yes,a,yes,292.36774014355257,5.678012393962634,20,292.36774014355257,no,stressed,0
+o: gentil hombre: de clara s,ero mancebo: gentil hombre: de clara sangre: que llaman Calisto,clara,e,yes,a,yes,292.36774014355257,5.678012393962634,20,292.36774014355257,no,stressed,3
+angre: que llaman C,de clara sangre: que llaman Calisto? MELIB.--ya ya ya.,llaman,e,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,9
+angre: que llaman C,de clara sangre: que llaman Calisto? MELIB.--ya ya ya.,llaman,e,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+ por alegrar a el: e lleuar t, mi triste por alegrar a el: e lleuar tu el prouecho de mi perdi,lleuar,e,yes,e,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,5
+alor? poco lo puedes llamar: ,"B.--poco calor? poco lo puedes llamar: pues quedaste tu viua, e ",llamar,s,no,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,6
+alor? poco lo puedes llamar: ,"B.--poco calor? poco lo puedes llamar: pues quedaste tu viua, e ",llamar,s,no,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,0
+erza sino contra los flacos a,stra su fuerza sino contra los flacos animales. No paguen justos,flacos,s,no,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+erza sino contra los flacos a,stra su fuerza sino contra los flacos animales. No paguen justos,flacos,s,no,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,1
+ que ha vn ano en su flaqueza. ,que parece que ha vn ano en su flaqueza. E el mayor remedio que ti,flaqueza,u,no,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+misma entre dientes. llegada a,"o consigo misma entre dientes. llegada a su casa, hallo a Sempron",llegada,.,no,e,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+misma entre dientes. llegada a,"o consigo misma entre dientes. llegada a su casa, hallo a Sempron",llegada,.,no,e,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,2
+s van hablando hasta llegar a,daua. Ambos van hablando hasta llegar a casa de Calisto. e visto,llegar,a,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,9
+s van hablando hasta llegar a,daua. Ambos van hablando hasta llegar a casa de Calisto. e visto,llegar,a,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,0
+ue mas sacaras deste pleyto: ,", vieja: que mas sacaras deste pleyto: que de quinze virgos que ",pleyto,e,yes,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+ue mas sacaras deste pleyto: ,", vieja: que mas sacaras deste pleyto: que de quinze virgos que ",pleyto,e,yes,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,2
+como me estoruays de llegar a,"e largas, como me estoruays de llegar adonde han de reposar mis ",llegar,e,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,9
+como me estoruays de llegar a,"e largas, como me estoruays de llegar adonde han de reposar mis ",llegar,e,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,0
+njera vieja. o vieja llena d,P.--o lisonjera vieja. o vieja llena de mal. o cobdiciosa e aua,llena,a,yes,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,7
+njera vieja. o vieja llena d,P.--o lisonjera vieja. o vieja llena de mal. o cobdiciosa e aua,llena,a,yes,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,0
+acelerados e supitos plazeres c,: que los acelerados e supitos plazeres crian alteracion: la mucha,plazeres,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,0
+acelerados e supitos plazeres c,: que los acelerados e supitos plazeres crian alteracion: la mucha,plazeres,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,3
+xan. CAL.--e a essas llamas s,o los aquexan. CAL.--e a essas llamas senales de salud: pues qua,llamas,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,0
+xan. CAL.--e a essas llamas s,o los aquexan. CAL.--e a essas llamas senales de salud: pues qua,llamas,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,3
+nosotros: para poder llorar a,r huyr de nosotros: para poder llorar a su plazer con Celestina ,llorar,r,no,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+nosotros: para poder llorar a,r huyr de nosotros: para poder llorar a su plazer con Celestina ,llorar,r,no,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+ su plazer c,r llorar a su plazer con Celestina de gozo: y p,plazer,r,no,o,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ su plazer c,r llorar a su plazer con Celestina de gozo: y p,plazer,r,no,o,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ estado si a dios ha plazido e,ynta de su estado si a dios ha plazido en este mundo: e algunas m,plazido,a,yes,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,3
+ su madre de Melibea llamada p,"ilado, fue su madre de Melibea llamada para que fuesse a visitar ",llamada,a,yes,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,4
+ su madre de Melibea llamada p,"ilado, fue su madre de Melibea llamada para que fuesse a visitar ",llamada,a,yes,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+ calleys; morires de plazer c," amor, que calleys; morires de plazer con esta senora, segun su ",plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ calleys; morires de plazer c," amor, que calleys; morires de plazer con esta senora, segun su ",plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+" tanta alteracion de plazer, ","bi, senor, tanta alteracion de plazer, que qualquiera que me vie",plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+" tanta alteracion de plazer, ","bi, senor, tanta alteracion de plazer, que qualquiera que me vie",plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+agrauando mi osadia: llamandome h,a su yra: agrauando mi osadia: llamandome hechizera: alcahueta: viej,llamandome,:,no,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+dizes: que el genero flaco d,eo lo que dizes: que el genero flaco de las hembras es mas apto,flaco,o,yes,a,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,0
+dizes: que el genero flaco d,eo lo que dizes: que el genero flaco de las hembras es mas apto,flaco,o,yes,a,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,2
+"n mal haze, aborrece claridad: ","sabes quien mal haze, aborrece claridad: e yendo a mi casa podre h",claridad,e,yes,a,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,4
+"n mal haze, aborrece claridad: ","sabes quien mal haze, aborrece claridad: e yendo a mi casa podre h",claridad,e,yes,a,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+"AL.--corre, Parmeno, llama a","e negar. CAL.--corre, Parmeno, llama a mi sastre: e corte luego",llama,",",no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+"AL.--corre, Parmeno, llama a","e negar. CAL.--corre, Parmeno, llama a mi sastre: e corte luego",llama,",",no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+a recibio momento de plazer d,l que nunca recibio momento de plazer despues que aquella senora,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+a recibio momento de plazer d,l que nunca recibio momento de plazer despues que aquella senora,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+odos los sentidos le llegaron: ,onoscio: todos los sentidos le llegaron: todos acorrieron a el con,llegaron,e,yes,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+. el otro via que le llamauan p,n su manto. el otro via que le llamauan por nombre: e murio dende ,llamauan,e,yes,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,3
+a saetas: vna lengua llena d,on que echa saetas: vna lengua llena de reproches e desuios. el,llena,a,yes,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,7
+a saetas: vna lengua llena d,on que echa saetas: vna lengua llena de reproches e desuios. el,llena,a,yes,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,0
+donde fue mi corazon llagado: ,uerta por donde fue mi corazon llagado: e que aquel es visto haze,llagado,n,no,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+donde fue mi corazon llagado: ,uerta por donde fue mi corazon llagado: e que aquel es visto haze,llagado,n,no,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,1
+tays la triaca de mi llaga. ,neys y tratays la triaca de mi llaga. ya no podran empecer las ,llaga,i,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+tays la triaca de mi llaga. ,neys y tratays la triaca de mi llaga. ya no podran empecer las ,llaga,i,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+MP.--no afistoles tu llaga c,que yo. SEMP.--no afistoles tu llaga cargandola de mas desseo. ,llaga,u,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+MP.--no afistoles tu llaga c,que yo. SEMP.--no afistoles tu llaga cargandola de mas desseo. ,llaga,u,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+tuyo para cerrar tus llagas. ,"no por el tuyo para cerrar tus llagas. pero si yo viuo, ella bol",llagas,s,no,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+" si salieres manana, lleues r","senor, que si salieres manana, lleues rebozado vn pano, porque s",lleues,",",no,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+ conformes en que la lleuara M,e biuieran conformes en que la lleuara Melibea. assi que se llama,lleuara,a,yes,e,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,1
+elibea. assi que se llamara m, lleuara Melibea. assi que se llamara manzana de concordia. Pues,llamara,e,yes,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,1
+as. rayzes: ramas: e flores p,"radas yeruas. rayzes: ramas: e flores para hazer lexias, con que",flores,e,yes,o,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,0
+as. rayzes: ramas: e flores p,"radas yeruas. rayzes: ramas: e flores para hazer lexias, con que",flores,e,yes,o,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,1
+solo vn poco de agua clara c,u pintor. solo vn poco de agua clara con vn eburneo peyne basta,clara,a,yes,a,yes,292.36774014355257,5.678012393962634,20,292.36774014355257,no,stressed,0
+solo vn poco de agua clara c,u pintor. solo vn poco de agua clara con vn eburneo peyne basta,clara,a,yes,a,yes,292.36774014355257,5.678012393962634,20,292.36774014355257,no,stressed,3
+ muy tarde: e dexame lleuar e,"ia, que es muy tarde: e dexame lleuar el cordon porque tengo del",lleuar,e,yes,e,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,5
+ vaya con ella tanto plazer e,"su casa: e vaya con ella tanto plazer e alegria, quanta comigo q",plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ vaya con ella tanto plazer e,"su casa: e vaya con ella tanto plazer e alegria, quanta comigo q",plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ina va para su casa. llama a,no. Celestina va para su casa. llama a la puerta. Elicia le vie,llama,.,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+ina va para su casa. llama a,no. Celestina va para su casa. llama a la puerta. Elicia le vie,llama,.,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+os puede faltar esta florezilla d,"nsays que os puede faltar esta florezilla de juuentud. Pues mira, am",florezilla,a,yes,o,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+mplida. PARM.--a que llamas r,"en edad complida. PARM.--a que llamas reposado, tia? CEL.--hijo,",llamas,e,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,0
+mplida. PARM.--a que llamas r,"en edad complida. PARM.--a que llamas reposado, tia? CEL.--hijo,",llamas,e,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,3
+ que se perdiere: no llores t,ierdase lo que se perdiere: no llores tu la fazienda que tu amo ,llores,o,yes,o,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,2
+ que se perdiere: no llores t,ierdase lo que se perdiere: no llores tu la fazienda que tu amo ,llores,o,yes,o,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+ heredo: que esto te lleuaras d,que tu amo heredo: que esto te lleuaras deste mundo: pues no le te,lleuaras,e,yes,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+: como tu con el dia claro: ,che escura: como tu con el dia claro: dezia que aquella era cap,claro,a,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+: como tu con el dia claro: ,che escura: como tu con el dia claro: dezia que aquella era cap,claro,a,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+nos sobre otros a su llamado. ,o venian vnos sobre otros a su llamado. no le osauan dezir mentir,llamado,u,no,a,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,5
+nos sobre otros a su llamado. ,o venian vnos sobre otros a su llamado. no le osauan dezir mentir,llamado,u,no,a,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,0
+"ieja, que ella me da plazer c","mas esta vieja, que ella me da plazer con estos loores de sus pa",plazer,a,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+"ieja, que ella me da plazer c","mas esta vieja, que ella me da plazer con estos loores de sus pa",plazer,a,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+"i de caualleros como clerigos, ","erida: assi de caualleros como clerigos, casados / viejos / mozos ",clerigos,o,yes,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+n vna escalera en la plaza: ,edio dia en vna escalera en la plaza: puesto vno como rocadero ,plaza,a,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,7
+otro es el que ha de llorar l,"r, passe. otro es el que ha de llorar las necessidades, que no t",llorar,e,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+otro es el que ha de llorar l,"r, passe. otro es el que ha de llorar las necessidades, que no t",llorar,e,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+"U.--passo, madre. no llegues a","uelgo. AREU.--passo, madre. no llegues a mi: que me fazes coxquil",llegues,o,yes,e,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,2
+ / axiensos: humo de plumas d,oleo: ruda / axiensos: humo de plumas de perdiz: de romero / de ,plumas,e,yes,u,no,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+ / axiensos: humo de plumas d,oleo: ruda / axiensos: humo de plumas de perdiz: de romero / de ,plumas,e,yes,u,no,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,1
+lma sola ni canta ni llora. ,nda. vna alma sola ni canta ni llora. vn solo acto no haze habi,llora,i,no,o,yes,540.8803192655722,6.2931980330528665,37,540.8803192655722,no,stressed,0
+ buen tiempo te asi. llegate a,"e tengo. a buen tiempo te asi. llegate aca, negligente, vergonzos",llegate,.,no,e,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,0
+ buen tiempo te asi. llegate a,"e tengo. a buen tiempo te asi. llegate aca, negligente, vergonzos",llegate,.,no,e,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,1
+i erre aya perdon: e llegate m,.--madre si erre aya perdon: e llegate mas aca: y el haga lo que ,llegate,e,yes,e,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,0
+i erre aya perdon: e llegate m,.--madre si erre aya perdon: e llegate mas aca: y el haga lo que ,llegate,e,yes,e,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,1
+IC.--quien es? quien llama? ," ""tha"". ELIC.--quien es? quien llama? CEL.--baxame abrir, fija.",llama,n,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+IC.--quien es? quien llama? ," ""tha"". ELIC.--quien es? quien llama? CEL.--baxame abrir, fija.",llama,n,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+andar de noche es tu plazer. , venidas. andar de noche es tu plazer. porque lo hazes? que larg,plazer,u,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+andar de noche es tu plazer. , venidas. andar de noche es tu plazer. porque lo hazes? que larg,plazer,u,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+"ndo seas de mi edad, lloraras l","nta. e quando seas de mi edad, lloraras la folgura de agora. que l",lloraras,",",no,o,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+onsejo: ayamos mucho plazer. ,iempo el consejo: ayamos mucho plazer. mientra oy touieremos de ,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+onsejo: ayamos mucho plazer. ,iempo el consejo: ayamos mucho plazer. mientra oy touieremos de ,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+o que no trocasse mi plazer p, ay ninguno que no trocasse mi plazer por sus dineros. dexemos c,plazer,i,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+o que no trocasse mi plazer p, ay ninguno que no trocasse mi plazer por sus dineros. dexemos c,plazer,i,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ue es esto que tanta claridad e,esce / o que es esto que tanta claridad esta en esta camara? AREU.,claridad,a,yes,a,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,4
+ue es esto que tanta claridad e,esce / o que es esto que tanta claridad esta en esta camara? AREU.,claridad,a,yes,a,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+"enora, que es de dia claro: ","esto yo, senora, que es de dia claro: en ver entrar luz entre l",claro,a,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+"enora, que es de dia claro: ","esto yo, senora, que es de dia claro: en ver entrar luz entre l",claro,a,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+"stina. AREU.--que me plaze, ","sa de Celestina. AREU.--que me plaze, de buen grado. ve con dio",plaze,e,yes,a,yes,1286.4180566316313,7.159616934886849,88,1286.4180566316313,no,stressed,3
+ te quedes. PARM.--o plazer s,M.--a dios te quedes. PARM.--o plazer singular / o singular aleg,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ te quedes. PARM.--o plazer s,M.--a dios te quedes. PARM.--o plazer singular / o singular aleg,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ion sin compania. El plazer n,a la posesion sin compania. El plazer no comunicado no es plazer,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ion sin compania. El plazer n,a la posesion sin compania. El plazer no comunicado no es plazer,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+o comunicado no es plazer. ,l plazer no comunicado no es plazer. Quien sentiria esta mi di,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+o comunicado no es plazer. ,l plazer no comunicado no es plazer. Quien sentiria esta mi di,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+"ios, no corrumpas mi plazer. ","ano: por dios, no corrumpas mi plazer. no mezcles tu yra con mi ",plazer,i,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+"ios, no corrumpas mi plazer. ","ano: por dios, no corrumpas mi plazer. no mezcles tu yra con mi ",plazer,i,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+n tan turbia agua el claro l,o agues con tan turbia agua el claro liquor del pensamiento que,claro,l,no,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+n tan turbia agua el claro l,o agues con tan turbia agua el claro liquor del pensamiento que,claro,l,no,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+as reprehensiones mi plazer. ,os e odiosas reprehensiones mi plazer. recibeme con alegria: e c,plazer,i,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+as reprehensiones mi plazer. ,os e odiosas reprehensiones mi plazer. recibeme con alegria: e c,plazer,i,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ho: que no fincar vn clauo d, mi prouecho: que no fincar vn clauo de malicia a cada palabra.,clauo,n,no,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+" lo veo, nunca venir plazer s","speriencia lo veo, nunca venir plazer sin contraria zozobra en e",plazer,r,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+" lo veo, nunca venir plazer s","speriencia lo veo, nunca venir plazer sin contraria zozobra en e",plazer,r,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+" alegres, serenos, e claros s","ida. a los alegres, serenos, e claros soles, nublados escuros e ",claros,e,yes,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,0
+" alegres, serenos, e claros s","ida. a los alegres, serenos, e claros soles, nublados escuros e ",claros,e,yes,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,1
+", nublados escuros e pluuias v","aros soles, nublados escuros e pluuias vemos suceder. a los solaz",pluuias,e,yes,u,no,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+"der. a los solazes e plazeres, ","vemos suceder. a los solazes e plazeres, dolores e muertes los ocu",plazeres,e,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,0
+"der. a los solazes e plazeres, ","vemos suceder. a los solazes e plazeres, dolores e muertes los ocu",plazeres,e,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,3
+"as risas e deleytes, llantos e","cupan. a las risas e deleytes, llantos e lloros e passiones morta",llantos,",",no,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+ lloros e, llantos e lloros e passiones mortales los s,lloros,e,yes,o,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+-pues que es todo el plazer q,"ia? PARM.--pues que es todo el plazer que traygo, sino hauerla a",plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+-pues que es todo el plazer q,"ia? PARM.--pues que es todo el plazer que traygo, sino hauerla a",plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ puede hablar. a que llamas h,de risa no puede hablar. a que llamas hauerla alcanzado? estaua ,llamas,e,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,0
+ puede hablar. a que llamas h,de risa no puede hablar. a que llamas hauerla alcanzado? estaua ,llamas,e,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,3
+ste. no hiziste sino llegar e,ichoso fuiste. no hiziste sino llegar e recabdar. Por esto dizen,llegar,o,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,9
+ste. no hiziste sino llegar e,ichoso fuiste. no hiziste sino llegar e recabdar. Por esto dizen,llegar,o,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,0
+e Celestina: e si te plaze v,ara casa de Celestina: e si te plaze vamos todos alla. SEMP.--q,plaze,e,yes,a,yes,1286.4180566316313,7.159616934886849,88,1286.4180566316313,no,stressed,3
+ja e Elicia. auremos plazer. ,sta la vieja e Elicia. auremos plazer. SEMP.--o dios! e como me ,plazer,s,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ja e Elicia. auremos plazer. ,sta la vieja e Elicia. auremos plazer. SEMP.--o dios! e como me ,plazer,s,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+"dizes, e nunca me ha llamado? ","ARM.--que dizes, e nunca me ha llamado? ni ha tenido memoria de m",llamado,a,yes,a,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,5
+"dizes, e nunca me ha llamado? ","ARM.--que dizes, e nunca me ha llamado? ni ha tenido memoria de m",llamado,a,yes,a,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,0
+anco? PARM.--en casa llena p,riado e franco? PARM.--en casa llena presto se adereza cena. de,llena,a,yes,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,7
+anco? PARM.--en casa llena p,riado e franco? PARM.--en casa llena presto se adereza cena. de,llena,a,yes,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,0
+ Melibea: e veras la claridad: , vn poco a Melibea: e veras la claridad: que con la mucha que en s,claridad,a,yes,a,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,4
+ Melibea: e veras la claridad: , vn poco a Melibea: e veras la claridad: que con la mucha que en s,claridad,a,yes,a,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+"razon, hazen parecer claros m","didos por razon, hazen parecer claros mis consejos. Quisieras tu",claros,r,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,0
+"razon, hazen parecer claros m","didos por razon, hazen parecer claros mis consejos. Quisieras tu",claros,r,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,1
+iera mercaduria a la plaza: ,tra qualquiera mercaduria a la plaza: en que no houiera mas tra,plaza,a,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,7
+uiera mas trabajo de llegar e," que no houiera mas trabajo de llegar e pagalla. Da, senor, aliu",llegar,e,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,9
+uiera mas trabajo de llegar e," que no houiera mas trabajo de llegar e pagalla. Da, senor, aliu",llegar,e,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,0
+iuas e enciendes las flamas q,que mas auiuas e enciendes las flamas que me consumen. Yo me voy,flamas,s,no,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+" a casa fasta que me llameys, ","no tornare a casa fasta que me llameys, pidiendome las albricias ",llameys,e,yes,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+", entre si hablando. llegados a"," Celestina, entre si hablando. llegados alla, hallan a Elicia e Ar",llegados,.,no,e,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+", criada de Melibea, llamar a","e Lucrecia, criada de Melibea, llamar a Celestina, que vaya a es",llamar,",",no,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,6
+", criada de Melibea, llamar a","e Lucrecia, criada de Melibea, llamar a Celestina, que vaya a es",llamar,",",no,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,0
+tina sus deuociones: lleuarla h,bado Celestina sus deuociones: lleuarla hemos de camino. SEMP.--a ,lleuarla,:,no,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+l mejor / e como les llaman p,ion: e qual mejor / e como les llaman por nombre: porque quando ,llaman,s,no,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,9
+l mejor / e como les llaman p,ion: e qual mejor / e como les llaman por nombre: porque quando ,llaman,s,no,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+uerta. en casa esta. llama a,"ierta su puerta. en casa esta. llama antes que entres, que por ",llama,.,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+uerta. en casa esta. llama a,"ierta su puerta. en casa esta. llama antes que entres, que por ",llama,.,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+raje al couarde / al floxo d,orido / coraje al couarde / al floxo diligencia / conforta los ,floxo,l,no,o,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+"po, de asco de oyrte llamar a","en el cuerpo, de asco de oyrte llamar aquella gentil. Mirad quie",llamar,e,yes,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,6
+"po, de asco de oyrte llamar a","en el cuerpo, de asco de oyrte llamar aquella gentil. Mirad quie",llamar,e,yes,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,0
+reo que le tiene tan floxo c,"lo otro, creo que le tiene tan floxo como vieja de cincuenta an",floxo,n,no,o,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+ no hagas agora esse plazer a,", a comer. no hagas agora esse plazer a estos locos porfiados: s",plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ no hagas agora esse plazer a,", a comer. no hagas agora esse plazer a estos locos porfiados: s",plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+i beuen: ni rien: ni lloran: ,i comen: ni beuen: ni rien: ni lloran: ni duermen: ni velan: ni ,lloran,i,no,o,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,0
+quella dulce e fiera llaga d,xidad de aquella dulce e fiera llaga de sus corazones. E si alg,llaga,a,yes,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+quella dulce e fiera llaga d,xidad de aquella dulce e fiera llaga de sus corazones. E si alg,llaga,a,yes,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+se oluida la mano de lleuar l, comiendo se oluida la mano de lleuar la vianda a la boca. Pues ,lleuar,e,yes,e,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,5
+"--madre, a la puerta llaman: ","esa. ELIC.--madre, a la puerta llaman: el solaz es derramado. CE",llaman,a,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,9
+"--madre, a la puerta llaman: ","esa. ELIC.--madre, a la puerta llaman: el solaz es derramado. CE",llaman,a,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+tas gallinas crias / lleuame a,ada / quantas gallinas crias / lleuame a merendar a tu casa: mues,lleuame,/,no,e,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+e jamas me precie de llamarme d,onocer: que jamas me precie de llamarme de otrie: sino mia: mayorm,llamarme,e,yes,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,2
+"cia? quien perdio el plato, ","e esto, necia? quien perdio el plato, desalinada? como falto el",plato,l,no,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+ pueda sofrillas. su plazer e,. no quien pueda sofrillas. su plazer es dar bozes. su gloria es,plazer,u,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ pueda sofrillas. su plazer e,. no quien pueda sofrillas. su plazer es dar bozes. su gloria es,plazer,u,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+az: que toda la casa llena d, pan con paz: que toda la casa llena de viandas con renzilla. m,llena,a,yes,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,7
+az: que toda la casa llena d, pan con paz: que toda la casa llena de viandas con renzilla. m,llena,a,yes,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,0
+" sus alcaduzes: vnos llenos, ","eda: rodee sus alcaduzes: vnos llenos, otros vazios. Ley es de f",llenos,s,no,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+" sus alcaduzes: vnos llenos, ","eda: rodee sus alcaduzes: vnos llenos, otros vazios. Ley es de f",llenos,s,no,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,1
+us grados. Mi honrra llego a,"do tiene sus grados. Mi honrra llego a la cumbre, segun quien y",llego,a,yes,e,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,4
+obi: para decender / floresci /,n se que sobi: para decender / floresci / para secarme / goze / pa,floresci,/,no,o,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+ a derechas. Vnos me llamauan s,dezia cosa a derechas. Vnos me llamauan senora: otros tia: otros e,llamauan,e,yes,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,3
+me hablauan: como la clerezia e,"otros que me hablauan: como la clerezia era grande, hauia de todos",clerezia,a,yes,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+nassen: e apenas era llegada a," me acompanassen: e apenas era llegada a mi casa, quando entrauan",llegada,a,yes,e,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+nassen: e apenas era llegada a," me acompanassen: e apenas era llegada a mi casa, quando entrauan",llegada,a,yes,e,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,2
+omos venidas a hauer plazer: ,"os, pues somos venidas a hauer plazer: no llores, madre, ni te f",plazer,r,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+omos venidas a hauer plazer: ,"os, pues somos venidas a hauer plazer: no llores, madre, ni te f",plazer,r,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+"no llores, ","r plazer: no llores, madre, ni te fatigues: qu",llores,r,no,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,2
+"no llores, ","r plazer: no llores, madre, ni te fatigues: qu",llores,r,no,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+"rto tengo, hija, que llorar: ",". CEL.--harto tengo, hija, que llorar: acordandome a tan alegre ",llorar,e,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+"rto tengo, hija, que llorar: ",". CEL.--harto tengo, hija, que llorar: acordandome a tan alegre ",llorar,e,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+ue nos has sacado el plazer d,i agora: que nos has sacado el plazer dentre las manos. Alcese l,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ue nos has sacado el plazer d,i agora: que nos has sacado el plazer dentre las manos. Alcese l,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+"L.--vamos, que yo le lleuo. ","cordon. CEL.--vamos, que yo le lleuo. ARGUMENTO DEL DECIMO AUTO",lleuo,e,yes,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,6
+"L.--vamos, que yo le lleuo. ","cordon. CEL.--vamos, que yo le lleuo. ARGUMENTO DEL DECIMO AUTO",lleuo,e,yes,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,0
+uerza a descobrir mi llaga: ,enir por fuerza a descobrir mi llaga: quando no me sea agradeci,llaga,i,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+uerza a descobrir mi llaga: ,enir por fuerza a descobrir mi llaga: quando no me sea agradeci,llaga,i,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+odos los atribulados llaman. ,a ti que todos los atribulados llaman. los apassionados piden re,llaman,s,no,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,9
+odos los atribulados llaman. ,a ti que todos los atribulados llaman. los apassionados piden re,llaman,s,no,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+s piden remedio. los llagados m,passionados piden remedio. los llagados medicina. a ti que los cie,llagados,s,no,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+a. Mejor crescen las plantas q,a la melena. Mejor crescen las plantas que tiernas e nueuas se tr,plantas,s,no,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+ncio tregua entre tu llaga e,o: el silencio tregua entre tu llaga e mi melezina. assi que se,llaga,u,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+ncio tregua entre tu llaga e,o: el silencio tregua entre tu llaga e mi melezina. assi que se,llaga,u,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+ntos que lastiman lo llagado: ,asperos puntos que lastiman lo llagado: doblan la passion: que no,llagado,o,yes,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+ntos que lastiman lo llagado: ,asperos puntos que lastiman lo llagado: doblan la passion: que no,llagado,o,yes,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,1
+tigua maestra destas llagas. ,ar a la antigua maestra destas llagas. MELIB.--o como me muero c,llagas,s,no,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+os zurujanos que los flacos c,los animosos zurujanos que los flacos corazones: los quales con ,flacos,s,no,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+os zurujanos que los flacos c,los animosos zurujanos que los flacos corazones: los quales con ,flacos,s,no,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,1
+"nde se puede conocer claro,""","ja. por donde se puede conocer claro,"" lo que yo digo es que es",claro,r,no,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+"nde se puede conocer claro,""","ja. por donde se puede conocer claro,"" lo que yo digo es que es",claro,r,no,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+necessario traer mas clara m,odavia es necessario traer mas clara melezina: e mas saludable ,clara,s,no,a,yes,292.36774014355257,5.678012393962634,20,292.36774014355257,no,stressed,0
+necessario traer mas clara m,odavia es necessario traer mas clara melezina: e mas saludable ,clara,s,no,a,yes,292.36774014355257,5.678012393962634,20,292.36774014355257,no,stressed,3
+abajo es perdido: tu llaga e,nuestro trabajo es perdido: tu llaga es grande: tiene necessida,llaga,u,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+abajo es perdido: tu llaga e,nuestro trabajo es perdido: tu llaga es grande: tiene necessida,llaga,u,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+lestia se cura: e vn clauo c,sto sin molestia se cura: e vn clauo con otro se espele: e vn d,clauo,n,no,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+"ible aguja, que, sin llegar a","esta inuisible aguja, que, sin llegar a ti, sientes en solo ment",llegar,n,no,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,9
+"ible aguja, que, sin llegar a","esta inuisible aguja, que, sin llegar a ti, sientes en solo ment",llegar,n,no,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,0
+LIB.--como dizes que llaman a, curar. MELIB.--como dizes que llaman a este mi dolor? que assi ,llaman,e,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,9
+LIB.--como dizes que llaman a, curar. MELIB.--como dizes que llaman a este mi dolor? que assi ,llaman,e,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+ndido. vna agradable llaga. ,fuego escondido. vna agradable llaga. vn sabroso veneno. vna du,llaga,e,yes,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+ndido. vna agradable llaga. ,fuego escondido. vna agradable llaga. vn sabroso veneno. vna du,llaga,e,yes,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+o el alto dios da la llaga: , que quando el alto dios da la llaga: tras ella embia el remedi,llaga,a,yes,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+o el alto dios da la llaga: , que quando el alto dios da la llaga: tras ella embia el remedi,llaga,a,yes,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+al mundo nascida vna flor q,que se yo al mundo nascida vna flor que de todo esto te delibr,flor,a,yes,o,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+al mundo nascida vna flor q,que se yo al mundo nascida vna flor que de todo esto te delibr,flor,a,yes,o,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,2
+bre. MELIB.--como se llama? ,to te delibre. MELIB.--como se llama? CEL.--no te lo oso dezir.,llama,e,yes,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+bre. MELIB.--como se llama? ,to te delibre. MELIB.--como se llama? CEL.--no te lo oso dezir.,llama,e,yes,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+lor alegre? abre tus claros o,"s de tu color alegre? abre tus claros ojos. Lucrecia, Lucrecia: ",claros,s,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,0
+lor alegre? abre tus claros o,"s de tu color alegre? abre tus claros ojos. Lucrecia, Lucrecia: ",claros,s,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,1
+e de mi cara: que no lleuassen c, despedirse de mi cara: que no lleuassen consigo su color por algun,lleuassen,o,yes,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+do han tus puntos mi llaga: ,gre. cerrado han tus puntos mi llaga: venida soy en tu querer. ,llaga,i,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+do han tus puntos mi llaga: ,gre. cerrado han tus puntos mi llaga: venida soy en tu querer. ,llaga,i,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+rer. En mi cordon le lleuaste e, en tu querer. En mi cordon le lleuaste embuelta la posesion de mi,lleuaste,e,yes,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+ora tengo sentida tu llaga: ,ntes de agora tengo sentida tu llaga: e calado tu desseo: hame ,llaga,u,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+ora tengo sentida tu llaga: ,ntes de agora tengo sentida tu llaga: e calado tu desseo: hame ,llaga,u,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+emaua: tanto mas sus llamas s, que te quemaua: tanto mas sus llamas se manifestauan / en la co,llamas,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,0
+emaua: tanto mas sus llamas s, que te quemaua: tanto mas sus llamas se manifestauan / en la co,llamas,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,3
+as manos senales muy claras d,de entre las manos senales muy claras de pena. pero como en los ,claras,y,no,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+a: ni la recibas con plazer. ,n su venida: ni la recibas con plazer. halle en ti onestidad en ,plazer,n,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+a: ni la recibas con plazer. ,n su venida: ni la recibas con plazer. halle en ti onestidad en ,plazer,n,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+to. va para su casa. llama a,a de Calisto. va para su casa. llama a la puerta. Elicia le vie,llama,.,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+to. va para su casa. llama a,a de Calisto. va para su casa. llama a la puerta. Elicia le vie,llama,.,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+"A. CEL.--Ay dios, si llegasse a","ENO. ELICIA. CEL.--Ay dios, si llegasse a mi casa con mi mucha ale",llegasse,i,no,e,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+s: que al muy deuoto llaman y," en lenguas: que al muy deuoto llaman ypocrita: que diran, sino ",llaman,o,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,9
+s: que al muy deuoto llaman y," en lenguas: que al muy deuoto llaman ypocrita: que diran, sino ",llaman,o,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+ PARM.--cadenilla la llama? ,"i alegria. PARM.--cadenilla la llama? no lo oyes, Sempronio? no",llama,a,yes,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+ PARM.--cadenilla la llama? ,"i alegria. PARM.--cadenilla la llama? no lo oyes, Sempronio? no",llama,a,yes,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+"or Calisto, para tan flaca v"," CEL.--senor Calisto, para tan flaca vieja como yo: mucha franq",flaca,n,no,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+"or Calisto, para tan flaca v"," CEL.--senor Calisto, para tan flaca vieja como yo: mucha franq",flaca,n,no,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+ la suya. Melibea se llama t,ona que en la suya. Melibea se llama tuya: e esto tiene por tit,llama,e,yes,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+ la suya. Melibea se llama t,ona que en la suya. Melibea se llama tuya: e esto tiene por tit,llama,e,yes,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+del mundo. Que haria llanas l,ado galan del mundo. Que haria llanas las penas para andar: que ,llanas,a,yes,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+"a, tha. ELIC.--quien llama? ",". CEL.--tha, tha. ELIC.--quien llama? CEL.--abre, hija Elicia. ",llama,n,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+"a, tha. ELIC.--quien llama? ",". CEL.--tha, tha. ELIC.--quien llama? CEL.--abre, hija Elicia. ",llama,n,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+s sano: que anda por llano. ,quel va mas sano: que anda por llano. Mas quiero ensuziar mis z,llano,r,no,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+le primero Lucrecia. llama a,sto. Hablale primero Lucrecia. llama a Melibea. Apartase Lucrec,llama,.,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+le primero Lucrecia. llama a,sto. Hablale primero Lucrecia. llama a Melibea. Apartase Lucrec,llama,.,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+"la calle, despierta. llama a"," hauia en la calle, despierta. llama a su muger Alisa. Pregunta",llama,.,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+"la calle, despierta. llama a"," hauia en la calle, despierta. llama a su muger Alisa. Pregunta",llama,.,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+ CAL.--a buen tiempo llegamos. ,"a estamos. CAL.--a buen tiempo llegamos. Parate tu, Parmeno, a ver",llegamos,o,yes,e,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,2
+mas menester para me lleuar m,es no era mas menester para me lleuar muerto a casa: que boluers,lleuar,e,yes,e,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,5
+a prouidencia. Yo me llego a,"por mi mala prouidencia. Yo me llego alla, quedaos vosotros en ",llego,e,yes,e,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,4
+ amo quiere: y jamas lloraras d,ro como tu amo quiere: y jamas lloraras duelos agenos. No tomes en,lloraras,s,no,o,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+gas esse bollicio de plazer. ,tes: ni hagas esse bollicio de plazer. que daras causa a que sea,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+gas esse bollicio de plazer. ,tes: ni hagas esse bollicio de plazer. que daras causa a que sea,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+isto es esta; quiero llegar. ,voz de Calisto es esta; quiero llegar. quien habla? quien esta f,llegar,o,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,9
+isto es esta; quiero llegar. ,voz de Calisto es esta; quiero llegar. quien habla? quien esta f,llegar,o,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,0
+"do. LUCR.--porque no llegas, ","r tu mandado. LUCR.--porque no llegas, senora? llega sin temor a",llegas,o,yes,e,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,1
+senora? llega s,"o llegas, senora? llega sin temor aca: que aquel c",llega,o,yes,e,yes,716.3009633517038,6.5741004185192695,49,716.3009633517038,no,stressed,3
+e venir que passe de claro e,nguna puede venir que passe de claro en claro la fuerza de su m,claro,e,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+e venir que passe de claro e,nguna puede venir que passe de claro en claro la fuerza de su m,claro,e,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+n claro l,de claro en claro la fuerza de su muro. Pero,claro,e,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+n claro l,de claro en claro la fuerza de su muro. Pero,claro,e,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+ desta que tiene las llaues d,mesma boca desta que tiene las llaues de mi perdicion e gloria. ,llaues,s,no,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+ falsarios? quien es claro e,e no moran falsarios? quien es claro enemigo? quien es verdader,claro,s,no,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+ falsarios? quien es claro e,e no moran falsarios? quien es claro enemigo? quien es verdader,claro,s,no,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+ra lo dissimular. Tu lloras d,"is ojos para lo dissimular. Tu lloras de tristeza, juzgandome cr",lloras,u,no,o,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+ra lo dissimular. Tu lloras d,"is ojos para lo dissimular. Tu lloras de tristeza, juzgandome cr",lloras,u,no,o,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,2
+juzgandome cruel: yo lloro d,"tristeza, juzgandome cruel: yo lloro de plazer, viendote tan fi",lloro,o,yes,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+juzgandome cruel: yo lloro d,"tristeza, juzgandome cruel: yo lloro de plazer, viendote tan fi",lloro,o,yes,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+"e plazer, ","yo lloro de plazer, viendote tan fiel. O mi s",plazer,o,yes,o,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+"e plazer, ","yo lloro de plazer, viendote tan fiel. O mi s",plazer,o,yes,o,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+en querer que vn tan flaco e,do hazer: en querer que vn tan flaco e indigno hombre pueda goz,flaco,n,no,a,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,0
+en querer que vn tan flaco e,do hazer: en querer que vn tan flaco e indigno hombre pueda goz,flaco,n,no,a,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,2
+lustrantes de tu muy claro g,os rayos ylustrantes de tu muy claro gesto dieron luz en mis oj,claro,y,no,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+lustrantes de tu muy claro g,os rayos ylustrantes de tu muy claro gesto dieron luz en mis oj,claro,y,no,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+ertes cerrojos e mis flacas f,: e sus fuertes cerrojos e mis flacas fuerzas. que ni tu estaria,flacas,s,no,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+ertes cerrojos e mis flacas f,: e sus fuertes cerrojos e mis flacas fuerzas. que ni tu estaria,flacas,s,no,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,1
+"ora mia, permite que llame a"," dios, senora mia, permite que llame a mis criados para que las",llame,e,yes,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,4
+mi bien todo: porque llamas y, senora e mi bien todo: porque llamas yerro aquello que por los ,llamas,e,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,0
+mi bien todo: porque llamas y, senora e mi bien todo: porque llamas yerro aquello que por los ,llamas,e,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,3
+" hermano, como esto, plazer h","e viesses, hermano, como esto, plazer haurias: a medio lado: abi",plazer,",",no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+" hermano, como esto, plazer h","e viesses, hermano, como esto, plazer haurias: a medio lado: abi",plazer,",",no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ que harto tengo que lleuar e,s liuiano: que harto tengo que lleuar en estas corazas: que me h,lleuar,e,yes,e,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,5
+"""e al mesonero de la plaza: ","nt Miguel ""e al mesonero de la plaza: e a Mollejar el ortelano?",plaza,a,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,7
+tal cosa. pero mucho plazer t,se cometa tal cosa. pero mucho plazer tengo que de tan fiel gent,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+tal cosa. pero mucho plazer t,se cometa tal cosa. pero mucho plazer tengo que de tan fiel gent,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+B.--no te oye; yo la llamare m,libea. PLEB.--no te oye; yo la llamare mas rezio. Hija mia Melibe,llamare,a,yes,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+B.--no te oye; yo la llamare m,libea. PLEB.--no te oye; yo la llamare mas rezio. Hija mia Melibe,llamare,a,yes,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,1
+abrenos. CEL.--quien llama? ,"elestina: abrenos. CEL.--quien llama? SEMP.--abre, que son tus ",llama,n,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+abrenos. CEL.--quien llama? ,"elestina: abrenos. CEL.--quien llama? SEMP.--abre, que son tus ",llama,n,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+a vieja dezir que me lleuasse y,"la oyo esta vieja dezir que me lleuasse yo todo el prouecho, si qu",lleuasse,e,yes,e,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,1
+s yras: no contra mi flaca r,"ra vuestras yras: no contra mi flaca rueca. ""senal es de gran c",flaca,i,no,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+s yras: no contra mi flaca r,"ra vuestras yras: no contra mi flaca rueca. ""senal es de gran c",flaca,i,no,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+ los bueyes magros e flacos. ,pican sino los bueyes magros e flacos. Los guzques ladradores: a,flacos,e,yes,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+ los bueyes magros e flacos. ,pican sino los bueyes magros e flacos. Los guzques ladradores: a,flacos,e,yes,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,1
+querays que salgan a plaza l, seso. No querays que salgan a plaza las cosas de Calisto e vue,plaza,a,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,7
+. Dende vn poco esta llamando a,sigo mismo. Dende vn poco esta llamando a Tristan e a otros sus cr,llamando,a,yes,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,1
+ puerta. Viene Sosia llorando. ,"istan a la puerta. Viene Sosia llorando. Preguntado de Tristan, So",llorando,a,yes,o,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+ puerta. Viene Sosia llorando. ,"istan a la puerta. Viene Sosia llorando. Preguntado de Tristan, So",llorando,a,yes,o,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,3
+ he dormido tan a mi plazer: ,L.--O como he dormido tan a mi plazer: despues de aquel azucarad,plazer,i,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ he dormido tan a mi plazer: ,L.--O como he dormido tan a mi plazer: despues de aquel azucarad,plazer,i,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+rmir / o la gloria e plazer d,i mucho dormir / o la gloria e plazer del animo: e no me marauil,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+rmir / o la gloria e plazer d,i mucho dormir / o la gloria e plazer del animo: e no me marauil,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ho. Quiero mandarlos llamar: ,gund derecho. Quiero mandarlos llamar: para mas confirmar mi goz,llamar,s,no,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,6
+ho. Quiero mandarlos llamar: ,gund derecho. Quiero mandarlos llamar: para mas confirmar mi goz,llamar,s,no,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,0
+" estoy. CAL.--corre, llamame a"," leuantado estoy. CAL.--corre, llamame a Sempronio e a Parmeno. T",llamame,",",no,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+: de tu grado. venza plazer a, tu senora: de tu grado. venza plazer al cuydado: e no le vea: p,plazer,a,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+: de tu grado. venza plazer a, tu senora: de tu grado. venza plazer al cuydado: e no le vea: p,plazer,a,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+do. Parece que viene llorando: ," hara cuerdo. Parece que viene llorando: que es esto, Sosia? porqu",llorando,e,yes,o,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+do. Parece que viene llorando: ," hara cuerdo. Parece que viene llorando: que es esto, Sosia? porqu",llorando,e,yes,o,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,3
+" esto, Sosia? porque lloras? ","do: que es esto, Sosia? porque lloras? de do vienes? SOS.--o mal",lloras,e,yes,o,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+" esto, Sosia? porque lloras? ","do: que es esto, Sosia? porque lloras? de do vienes? SOS.--o mal",lloras,e,yes,o,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,2
+dan degollados en la plaza. ,.--que quedan degollados en la plaza. TRIST.--o mala fortuna nu,plaza,a,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,7
+o me sintio: que con lloro l,ultad: como me sintio: que con lloro le miraua: hinco los ojos ,lloro,n,no,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+o me sintio: que con lloro l,ultad: como me sintio: que con lloro le miraua: hinco los ojos ,lloro,n,no,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+ Calisto. e pues tan claras s,a presente Calisto. e pues tan claras senas traes deste cruel do,claras,n,no,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+n descabezados en la plaza: ,meno quedan descabezados en la plaza: como publicos malhechores,plaza,a,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,7
+despidieron. como se llamaua e, de mi se despidieron. como se llamaua el muerto? SOS.--senor vna,llamaua,e,yes,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,3
+vna muger era que se llamaua C,S.--senor vna muger era que se llamaua Celestina. CAL.--que me di,llamaua,e,yes,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,3
+"ynta estocadas la vi llagada, ","mas de treynta estocadas la vi llagada, tendida en su casa: llora",llagada,i,no,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+"ynta estocadas la vi llagada, ","mas de treynta estocadas la vi llagada, tendida en su casa: llora",llagada,i,no,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,1
+tendida en su casa: llorandola v," llagada, tendida en su casa: llorandola vna su criada. CAL.--o tri",llorandola,:,no,o,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+zon de dolor. el vno lleuaua t,as el corazon de dolor. el vno lleuaua todos los sesos de la cabe,lleuaua,o,yes,e,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,2
+ara magullada: todos llenos d,os: e la cara magullada: todos llenos de sangre: que saltaron de,llenos,s,no,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+ara magullada: todos llenos d,os: e la cara magullada: todos llenos de sangre: que saltaron de,llenos,s,no,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,1
+en siento mi honrra: pluguiera a,"pues yo bien siento mi honrra: pluguiera a dios que fuera yo ellos,",pluguiera,:,no,u,no,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+icos andares por las plazas e, quan publicos andares por las plazas e mercados. Que sera de mi,plazas,s,no,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+" criada dando vozes, llorando s","aquella su criada dando vozes, llorando su muerte, la publicaua a ",llorando,",",no,o,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+" criada dando vozes, llorando s","aquella su criada dando vozes, llorando su muerte, la publicaua a ",llorando,",",no,o,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,3
+a el corazon rezio o flaco. ,s se prueua el corazon rezio o flaco. no ay mejor toque para co,flaco,o,yes,a,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,0
+a el corazon rezio o flaco. ,s se prueua el corazon rezio o flaco. no ay mejor toque para co,flaco,o,yes,a,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,2
+tan esperado camino. lleuaran e,"migo este tan esperado camino. lleuaran escalas, que son muy altas",lleuaran,.,no,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+e venir al prometido plazo e,voluntad de venir al prometido plazo en la forma que los tales ,plazo,o,yes,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+ntos me acarrean: no plega a,ymaginamientos me acarrean: no plega a dios que ninguna destas ,plega,o,yes,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+antes este quanto le plazera s,"osas sea: antes este quanto le plazera sin verme."" mas escucha: q",plazera,e,yes,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+antes este quanto le plazera s,"osas sea: antes este quanto le plazera sin verme."" mas escucha: q",plazera,e,yes,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,1
+a tanta turbacion de plazer: , mi persona tanta turbacion de plazer: que me haze no sentir tod,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+a tanta turbacion de plazer: , mi persona tanta turbacion de plazer: que me haze no sentir tod,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+o gozo: que es ver e llegar a,e lo que yo gozo: que es ver e llegar a tu persona: no pidas ni ,llegar,e,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,9
+o gozo: que es ver e llegar a,e lo que yo gozo: que es ver e llegar a tu persona: no pidas ni ,llegar,e,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,0
+ecer: agora gozan de llegar a,e poco merecer: agora gozan de llegar a tu gentil cuerpo: e lind,llegar,e,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,9
+ecer: agora gozan de llegar a,e poco merecer: agora gozan de llegar a tu gentil cuerpo: e lind,llegar,e,yes,e,yes,219.27580510766444,5.390330321510852,15,219.27580510766444,no,stressed,0
+ su corazon: consigo lleua e,omigo dexa su corazon: consigo lleua el mio: has nos oydo? LUCR,lleua,o,yes,e,yes,453.1699972225065,6.116267324893789,31,453.1699972225065,no,stressed,4
+ue creer que aquella lloradera m,bien se deue creer que aquella lloradera moza: que Celestina tenia ,lloradera,a,yes,o,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+riessa con su triste llanto. ,io rezia priessa con su triste llanto. E el por no hazer bullici,llanto,e,yes,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,0
+riessa con su triste llanto. ,io rezia priessa con su triste llanto. E el por no hazer bullici,llanto,e,yes,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,2
+ra: con el rescebido plazer. ,lor ygualara: con el rescebido plazer. O mi senora e mi vida: qu,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ra: con el rescebido plazer. ,lor ygualara: con el rescebido plazer. O mi senora e mi vida: qu,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ntre aquellas suaues plantas: ,vergel / entre aquellas suaues plantas: y fresca verdura. O noche,plantas,s,no,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+o celestial / de los planetas y, firmamento celestial / de los planetas y norte / de los crescimie,planetas,s,no,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+rtate alla senor. no llegues a, aquel apartate alla senor. no llegues a mi / aquel no seas desco,llegues,o,yes,e,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,2
+nderme: aquel huyr e llegarse: ,arme e prenderme: aquel huyr e llegarse: aquellos azucarados besos,llegarse,e,yes,e,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,1
+le cayan de aquellos claros e,sentir se le cayan de aquellos claros e resplandescientes ojos. ,claros,s,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,0
+le cayan de aquellos claros e,sentir se le cayan de aquellos claros e resplandescientes ojos. ,claros,s,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,1
+la tarde e no nos ha llamado: ,quatro de la tarde e no nos ha llamado: ni ha comido. TRIST.--cal,llamado,a,yes,a,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,5
+la tarde e no nos ha llamado: ,quatro de la tarde e no nos ha llamado: ni ha comido. TRIST.--cal,llamado,a,yes,a,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,0
+e alegra el muy gran plazer: ,por otra le alegra el muy gran plazer: de lo que con su Melibea ,plazer,n,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+e alegra el muy gran plazer: ,por otra le alegra el muy gran plazer: de lo que con su Melibea ,plazer,n,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+s que tal pararan vn flaco s,arios veras que tal pararan vn flaco subjecto: donde estuuieren,flaco,n,no,a,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,0
+s que tal pararan vn flaco s,arios veras que tal pararan vn flaco subjecto: donde estuuieren,flaco,n,no,a,yes,175.42064408613155,5.1671867701966425,12,175.42064408613155,no,stressed,2
+ yr por la calle: no lleuaria l,ana yo veo yr por la calle: no lleuaria las tocas de tal color. TR,lleuaria,o,yes,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+sin grande escote: e llamase A,or amiga: sin grande escote: e llamase Areusa. por la qual se yo ,llamase,e,yes,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+las: e avn que no le plaze a, noches malas: e avn que no le plaze a ella con su muerte. ARGU,plaze,e,yes,a,yes,1286.4180566316313,7.159616934886849,88,1286.4180566316313,no,stressed,3
+uriosas: a vn rufian llamado C,labras injuriosas: a vn rufian llamado Centurio el qual se despid,llamado,n,no,a,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,5
+uriosas: a vn rufian llamado C,labras injuriosas: a vn rufian llamado Centurio el qual se despid,llamado,n,no,a,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,0
+l mensaje se ganan / llore /,que por tal mensaje se ganan / llore / llore / vierta lagrimas:,llore,/,no,o,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,0
+l mensaje se ganan / llore /,que por tal mensaje se ganan / llore / llore / vierta lagrimas:,llore,/,no,o,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,2
+ llore /, / llore / llore / vierta lagrimas: pues no,llore,/,no,o,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,0
+ llore /, / llore / llore / vierta lagrimas: pues no,llore,/,no,o,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,2
+mbres a cada rincon: plazeme q,n tales hombres a cada rincon: plazeme que assi lo siente: messe ,plazeme,:,no,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+ yo me ensano alguna llorara: ,a: pues si yo me ensano alguna llorara: mas quiero yrme e zofrirt,llorara,a,yes,o,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,1
+ue no es son de buen llanto: , entrar: que no es son de buen llanto: donde ay amenazas e denue,llanto,n,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,0
+ue no es son de buen llanto: , entrar: que no es son de buen llanto: donde ay amenazas e denue,llanto,n,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,2
+uas dignas de mortal lloro /,orosas nueuas dignas de mortal lloro / o acelerados desastres o,lloro,l,no,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+uas dignas de mortal lloro /,orosas nueuas dignas de mortal lloro / o acelerados desastres o,lloro,l,no,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+tu tanto que cegaras llorando: , fatigues tu tanto que cegaras llorando: que creo que poca ventaja,llorando,s,no,o,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+tu tanto que cegaras llorando: , fatigues tu tanto que cegaras llorando: que creo que poca ventaja,llorando,s,no,o,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,3
+ que poca ventaja me lleuas e,: que creo que poca ventaja me lleuas en sentimiento y veras con,lleuas,e,yes,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,1
+rtan vuestros dulces plazeres: , se conuiertan vuestros dulces plazeres: tornese lloro vuestra glo,plazeres,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,0
+rtan vuestros dulces plazeres: , se conuiertan vuestros dulces plazeres: tornese lloro vuestra glo,plazeres,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,3
+tornese lloro v,plazeres: tornese lloro vuestra gloria trabajo vue,lloro,e,yes,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+tornese lloro v,plazeres: tornese lloro vuestra gloria trabajo vue,lloro,e,yes,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+antares se os tornen lloro: ,ras: los cantares se os tornen lloro: los sombrosos arboles del,lloro,n,no,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+antares se os tornen lloro: ,ras: los cantares se os tornen lloro: los sombrosos arboles del,lloro,n,no,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+n vuestra vista: sus flores o, sequen con vuestra vista: sus flores olorosas se tornen de negr,flores,s,no,o,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,0
+n vuestra vista: sus flores o, sequen con vuestra vista: sus flores olorosas se tornen de negr,flores,s,no,o,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,1
+todo carga sobre mi: pluguiera a,haga: que todo carga sobre mi: pluguiera a dios que fuera yo con el,pluguiera,:,no,u,no,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+s: e no quedara para llorar a,o con ellos: e no quedara para llorar a todos: y de lo que mas d,llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+s: e no quedara para llorar a,o con ellos: e no quedara para llorar a todos: y de lo que mas d,llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+azo: con que Melibea llore: ,armar vn lazo: con que Melibea llore: quanto agora goza. ELIC.-,llore,a,yes,o,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,0
+azo: con que Melibea llore: ,armar vn lazo: con que Melibea llore: quanto agora goza. ELIC.-,llore,a,yes,o,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,2
+o de cauallos que se llama S,rmeno: mozo de cauallos que se llama Sosia: que le acompana cad,llama,e,yes,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+o de cauallos que se llama S,rmeno: mozo de cauallos que se llama Sosia: que le acompana cad,llama,e,yes,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+REU.--mas hazme este plazer: ,e dizes. AREU.--mas hazme este plazer: que me embies aca esse So,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+REU.--mas hazme este plazer: ,e dizes. AREU.--mas hazme este plazer: que me embies aca esse So,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+amo hare reuessar el plazer c,l: e a su amo hare reuessar el plazer comido. E tu Elicia alma m,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+amo hare reuessar el plazer c,l: e a su amo hare reuessar el plazer comido. E tu Elicia alma m,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ la alegre memoria e plazeres p, se pierde la alegre memoria e plazeres perdidos del passado: de v,plazeres,e,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,0
+ la alegre memoria e plazeres p, se pierde la alegre memoria e plazeres perdidos del passado: de v,plazeres,e,yes,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,3
+hombre tiene: que da plazer l,de lo que hombre tiene: que da plazer la esperanza de otro tal: ,plazer,a,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+hombre tiene: que da plazer l,de lo que hombre tiene: que da plazer la esperanza de otro tal: ,plazer,a,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+que creo: que avnque llame e,IC.--cata que creo: que avnque llame el que mandas: no haura ef,llame,e,yes,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,4
+yrme: de lo dicho me lleuo e,s hora de yrme: de lo dicho me lleuo el cargo: dios quede conti,lleuo,e,yes,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,6
+yrme: de lo dicho me lleuo e,s hora de yrme: de lo dicho me lleuo el cargo: dios quede conti,lleuo,e,yes,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,0
+atura esto vemos muy claro s,s: segun natura esto vemos muy claro si miramos nuestros yguale,claro,y,no,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+atura esto vemos muy claro s,s: segun natura esto vemos muy claro si miramos nuestros yguale,claro,y,no,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+"quando auemos de ser llamados, ","inciertos quando auemos de ser llamados, viendo tan ciertas senale",llamados,r,no,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,0
+ lo mejor Calisto lo lleua. , la vejez. lo mejor Calisto lo lleua. no ay quien ponga virgos:,lleua,o,yes,e,yes,453.1699972225065,6.116267324893789,31,453.1699972225065,no,stressed,4
+ quien apartarme mis plazeres? ,mi gloria? quien apartarme mis plazeres? Calisto es mi anima / mi ,plazeres,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,0
+ quien apartarme mis plazeres? ,mi gloria? quien apartarme mis plazeres? Calisto es mi anima / mi ,plazeres,s,no,a,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,3
+si rodear el mundo / lleueme c, el yre / si rodear el mundo / lleueme consigo. si venderme en ti,lleueme,/,no,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+"mar, aquello sera su plazer: ","daremos tomar, aquello sera su plazer: aquello aura por bueno: q",plazer,u,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+"mar, aquello sera su plazer: ","daremos tomar, aquello sera su plazer: aquello aura por bueno: q",plazer,u,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+uando el otro dia le lleue l,hermana: quando el otro dia le lleue las nueuas deste triste ne,lleue,e,yes,e,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+uando el otro dia le lleue l,hermana: quando el otro dia le lleue las nueuas deste triste ne,lleue,e,yes,e,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,2
+en nasciendo hazemos llorar: ,ficio que en nasciendo hazemos llorar: no me marauilla ser mas l,llorar,s,no,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+en nasciendo hazemos llorar: ,ficio que en nasciendo hazemos llorar: no me marauilla ser mas l,llorar,s,no,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+radas / mis ropas de plazer. ,gueras labradas / mis ropas de plazer. quiero aderezar lexia par,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+radas / mis ropas de plazer. ,gueras labradas / mis ropas de plazer. quiero aderezar lexia par,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ alla hombre; quiero llamar. ,deue estar alla hombre; quiero llamar. tha. tha. AREU.--quien es,llamar,o,yes,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,6
+ alla hombre; quiero llamar. ,deue estar alla hombre; quiero llamar. tha. tha. AREU.--quien es,llamar,o,yes,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,0
+veate dios que tanto plazer m,mana mia: veate dios que tanto plazer me hazes en venir:como vie,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+veate dios que tanto plazer m,mana mia: veate dios que tanto plazer me hazes en venir:como vie,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+. ELIC.--a tu puerta llaman: , como a ti. ELIC.--a tu puerta llaman: poco espacio nos dan para,llaman,a,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,9
+. ELIC.--a tu puerta llaman: , como a ti. ELIC.--a tu puerta llaman: poco espacio nos dan para,llaman,a,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+co / o priuado quien llama. ,ue o es loco / o priuado quien llama. SOS.--abreme senora / Sos,llama,n,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+co / o priuado quien llama. ,ue o es loco / o priuado quien llama. SOS.--abreme senora / Sos,llama,n,no,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+eras qual te lo paro lleno d,mento: e veras qual te lo paro lleno de viento de lisonjas: que,lleno,o,yes,e,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,4
+con esto haze oy tan claro d, Parmeno: con esto haze oy tan claro dia: que auias tu de venir,claro,n,no,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+con esto haze oy tan claro d, Parmeno: con esto haze oy tan claro dia: que auias tu de venir,claro,n,no,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+: como a el mismo me plazia d, de su amo: como a el mismo me plazia donde via su dano de Calis,plazia,e,yes,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+ harto me basta auer llorado a,companero: harto me basta auer llorado al vno: porque has de sabe,llorado,r,no,o,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+ bozes como loco: de plazer. ,oche dando bozes como loco: de plazer. SOS.--o como son sin tien,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ bozes como loco: de plazer. ,oche dando bozes como loco: de plazer. SOS.--o como son sin tien,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+s holgando e auiendo plazer: ,is cauallos holgando e auiendo plazer: diziendo cantares por olu,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+s holgando e auiendo plazer: ,is cauallos holgando e auiendo plazer: diziendo cantares por olu,plazer,o,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+visitacion. y si mas clara q,cotidiana visitacion. y si mas clara quieres senora ver su fals,clara,s,no,a,yes,292.36774014355257,5.678012393962634,20,292.36774014355257,no,stressed,0
+visitacion. y si mas clara q,cotidiana visitacion. y si mas clara quieres senora ver su fals,clara,s,no,a,yes,292.36774014355257,5.678012393962634,20,292.36774014355257,no,stressed,3
+quien osa entrar sin llamar a,re: veras quien osa entrar sin llamar a la puerta. torna torna a,llamar,n,no,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,6
+quien osa entrar sin llamar a,re: veras quien osa entrar sin llamar a la puerta. torna torna a,llamar,n,no,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,0
+ que me auian de dar plazer. ,ssen: sino que me auian de dar plazer. AREU.--no entremos por mi,plazer,r,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ que me auian de dar plazer. ,ssen: sino que me auian de dar plazer. AREU.--no entremos por mi,plazer,r,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+yormente de mugeres? llegate a,sitado: mayormente de mugeres? llegate aca senor Centurio que en ,llegate,?,no,e,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,0
+yormente de mugeres? llegate a,sitado: mayormente de mugeres? llegate aca senor Centurio que en ,llegate,?,no,e,yes,146.18387007177628,4.9848652134026885,10,146.18387007177628,no,stressed,1
+ vn cauallero que se llama C,vengues de vn cauallero que se llama Calisto: que nos ha enojad,llama,e,yes,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+ vn cauallero que se llama C,vengues de vn cauallero que se llama Calisto: que nos ha enojad,llama,e,yes,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+uelo / e Centurio se llamo m,re a mi abuelo / e Centurio se llamo mi padre: e Centurio me ll,llamo,e,yes,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,3
+padre: e Centurio me llamo y, llamo mi padre: e Centurio me llamo yo. ELIC.--pues que hizo e,llamo,e,yes,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,3
+como se le antojare. llore M,e: matele como se le antojare. llore Melibea como tu has hecho:,llore,.,no,o,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,0
+como se le antojare. llore M,e: matele como se le antojare. llore Melibea como tu has hecho:,llore,.,no,o,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,2
+tome: e que vestidos lleuauan. ,lugar los tome: e que vestidos lleuauan. yo no las sabre dar: helo,lleuauan,s,no,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+nda? quiero embiar a llamar a, e su demanda? quiero embiar a llamar a Traso el coxo e a sus do,llamar,a,yes,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,6
+nda? quiero embiar a llamar a, e su demanda? quiero embiar a llamar a Traso el coxo e a sus do,llamar,a,yes,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,0
+dia al estiercol que lleuaua d,que: yo hedia al estiercol que lleuaua dentro en los zapatos: ten,lleuaua,e,yes,e,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,2
+aje: ya sabra que te llaman S,bre de linaje: ya sabra que te llaman Sosia: e a tu padre llamar,llaman,e,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,9
+aje: ya sabra que te llaman S,bre de linaje: ya sabra que te llaman Sosia: e a tu padre llamar,llaman,e,yes,a,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+osia: e a tu padre llamaron S,e llaman Sosia: e a tu padre llamaron Sosia nascido e criado en ,llamaron,e,yes,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,2
+berio de embidia del plazer d,isto e Pleberio de embidia del plazer de Melibea: cata que la em,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+berio de embidia del plazer d,isto e Pleberio de embidia del plazer de Melibea: cata que la em,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+dera. pero porque ya llegamos a, que verdadera. pero porque ya llegamos al huerto: e nuestro amo s,llegamos,a,yes,e,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,2
+de aquestas viciosas flores. , ortelana de aquestas viciosas flores. por prender cada manana: ,flores,s,no,o,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,0
+de aquestas viciosas flores. , ortelana de aquestas viciosas flores. por prender cada manana: ,flores,s,no,o,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,1
+-alegre es la fuente clara: ,or. LUCR.--alegre es la fuente clara: a quien con gran sed la v,clara,e,yes,a,yes,292.36774014355257,5.678012393962634,20,292.36774014355257,no,stressed,0
+-alegre es la fuente clara: ,or. LUCR.--alegre es la fuente clara: a quien con gran sed la v,clara,e,yes,a,yes,292.36774014355257,5.678012393962634,20,292.36774014355257,no,stressed,3
+cantays al aluorada: lleuad n,ores: que cantays al aluorada: lleuad nueua a mis amores: como e,lleuad,:,no,e,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+? donde me tenias tu claridad e,ziente sol? donde me tenias tu claridad escondida auia rato que es,claridad,u,no,a,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,4
+? donde me tenias tu claridad e,ziente sol? donde me tenias tu claridad escondida auia rato que es,claridad,u,no,a,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+a. mira la luna quan clara s,n tu venida. mira la luna quan clara se nos muestra. mira las n,clara,n,no,a,yes,292.36774014355257,5.678012393962634,20,292.36774014355257,no,stressed,0
+a. mira la luna quan clara s,n tu venida. mira la luna quan clara se nos muestra. mira las n,clara,n,no,a,yes,292.36774014355257,5.678012393962634,20,292.36774014355257,no,stressed,3
+uaue murmurio zurrio lleua: ,anto mas suaue murmurio zurrio lleua: por entre las frescas yer,lleua,o,yes,e,yes,453.1699972225065,6.116267324893789,31,453.1699972225065,no,stressed,4
+ga: tornaste loca de plazer: ,"ientes amiga: tornaste loca de plazer: dexamele, no me le desped",plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ga: tornaste loca de plazer: ,"ientes amiga: tornaste loca de plazer: dexamele, no me le desped",plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+mio: no me ocupes mi plazer. ,lo que es mio: no me ocupes mi plazer. CAL.--pues senora e glori,plazer,i,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+mio: no me ocupes mi plazer. ,lo que es mio: no me ocupes mi plazer. CAL.--pues senora e glori,plazer,i,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+nestas burlas me dan plazer: ,to: tus honestas burlas me dan plazer: tus deshonestas manos me ,plazer,n,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+nestas burlas me dan plazer: ,to: tus honestas burlas me dan plazer: tus deshonestas manos me ,plazer,n,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ue quita primero las plumas. ,comer el aue quita primero las plumas. LUCR.--mala landre me mat,plumas,s,no,u,no,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+ue quita primero las plumas. ,comer el aue quita primero las plumas. LUCR.--mala landre me mat,plumas,s,no,u,no,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,1
+ mi padre. Mi bien e plazer t,la casa de mi padre. Mi bien e plazer todo es ydo en humo. mi al,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+ mi padre. Mi bien e plazer t,la casa de mi padre. Mi bien e plazer todo es ydo en humo. mi al,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+mor? que es esso que lloras t,"izes, mi amor? que es esso que lloras tan sin mesura? TRIST.--ll",lloras,e,yes,o,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+mor? que es esso que lloras t,"izes, mi amor? que es esso que lloras tan sin mesura? TRIST.--ll",lloras,e,yes,o,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,2
+--lloro mi gran mal. lloro m,ra? TRIST.--lloro mi gran mal. lloro mis muchos dolores. Cayo m,lloro,.,no,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+--lloro mi gran mal. lloro m,ra? TRIST.--lloro mi gran mal. lloro mis muchos dolores. Cayo m,lloro,.,no,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+" Sosia, dessos pies; lleuemos e",". Toma tu, Sosia, dessos pies; lleuemos el cuerpo de nuestro queri",lleuemos,;,no,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+r; vaya con nosotros llanto: , este lugar; vaya con nosotros llanto: acompanenos soledad: siga,llanto,s,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,0
+r; vaya con nosotros llanto: , este lugar; vaya con nosotros llanto: acompanenos soledad: siga,llanto,s,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,2
+n tarde alcanzado el plazer: ,triste. tan tarde alcanzado el plazer: tan presto venido el dolo,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+n tarde alcanzado el plazer: ,triste. tan tarde alcanzado el plazer: tan presto venido el dolo,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+s cabellos: agora en plazer: ,i meses tus cabellos: agora en plazer: agora en tristeza. que pl,plazer,n,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+s cabellos: agora en plazer: ,i meses tus cabellos: agora en plazer: agora en tristeza. que pl,plazer,n,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ora en tristeza. que planeta h,plazer: agora en tristeza. que planeta houo que tan presto contra,planeta,e,yes,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,1
+uiste osadia para el plazer. ,a: pues touiste osadia para el plazer. MELIB.--oyes lo que aquel,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+uiste osadia para el plazer. ,a: pues touiste osadia para el plazer. MELIB.--oyes lo que aquel,plazer,l,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+es cantares? Rezando lleuan c, sus tristes cantares? Rezando lleuan con responso mi bien todo.,lleuan,o,yes,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,4
+mi bien todo. muerta lleuan m, responso mi bien todo. muerta lleuan mi alegria. No es tiempo d,lleuan,a,yes,e,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,4
+te en el huerto: que plazer s,era hallarte en el huerto: que plazer sentiste con la venida: ni,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+te en el huerto: que plazer s,era hallarte en el huerto: que plazer sentiste con la venida: ni,plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+"amara, acostarte as: llamare a","os en la camara, acostarte as: llamare a tu padre e fingiremos ot",llamare,:,no,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+"amara, acostarte as: llamare a","os en la camara, acostarte as: llamare a tu padre e fingiremos ot",llamare,:,no,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,1
+NTENO AUTO. Lucrecia llama a,TO DEL VEYNTENO AUTO. Lucrecia llama a la puerta de la camara d,llama,a,yes,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+NTENO AUTO. Lucrecia llama a,TO DEL VEYNTENO AUTO. Lucrecia llama a la puerta de la camara d,llama,a,yes,a,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+"eda ver el gesto con claridad.""","rque le pueda ver el gesto con claridad."" Que es esto, hija mia: q",claridad,n,no,a,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,4
+"eda ver el gesto con claridad.""","rque le pueda ver el gesto con claridad."" Que es esto, hija mia: q",claridad,n,no,a,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+e passion: que a los flacos c,nfermedad e passion: que a los flacos corazones el dolor los arg,flacos,s,no,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+e passion: que a los flacos c,nfermedad e passion: que a los flacos corazones el dolor los arg,flacos,s,no,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,1
+? MELIB.--vna mortal llaga e,ue sientes? MELIB.--vna mortal llaga en medio del corazon: que ,llaga,l,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+? MELIB.--vna mortal llaga e,ue sientes? MELIB.--vna mortal llaga en medio del corazon: que ,llaga,l,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+cedad toda suele ser plazer e,gez. La mocedad toda suele ser plazer e alegria: enemiga de enoj,plazer,r,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+cedad toda suele ser plazer e,gez. La mocedad toda suele ser plazer e alegria: enemiga de enoj,plazer,r,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+"a. Cata, si huyes de plazer: ","ara tu pena. Cata, si huyes de plazer: no ay cosa mas contraria ",plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+"a. Cata, si huyes de plazer: ","ara tu pena. Cata, si huyes de plazer: no ay cosa mas contraria ",plazer,e,yes,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+" MELIB.--mas si a ti plazera, "," nosotros. MELIB.--mas si a ti plazera, padre mio, mandar traer a",plazera,i,no,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+" MELIB.--mas si a ti plazera, "," nosotros. MELIB.--mas si a ti plazera, padre mio, mandar traer a",plazera,i,no,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,1
+gripina: por solo su plazer h,su madre Agripina: por solo su plazer hizo matar. Estos son dign,plazer,u,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+gripina: por solo su plazer h,su madre Agripina: por solo su plazer hizo matar. Estos son dign,plazer,u,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+nica fija: mi fin es llegado. ,te de tu vnica fija: mi fin es llegado. Llegado es mi descanso e ,llegado,s,no,e,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+scanso e tu passion. llegado e,o es mi descanso e tu passion. llegado es mi aliuio e tu pena. ll,llegado,.,no,e,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+mi aliuio e tu pena. llegada e,legado es mi aliuio e tu pena. llegada es mi acompanada hora e tu,llegada,.,no,e,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,0
+mi aliuio e tu pena. llegada e,legado es mi aliuio e tu pena. llegada es mi acompanada hora e tu,llegada,.,no,e,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,2
+o la interrumpas con lloro n,partida. No la interrumpas con lloro ni palabras: si no quedara,lloro,n,no,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+o la interrumpas con lloro n,partida. No la interrumpas con lloro ni palabras: si no quedara,lloro,n,no,o,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+haze. Bien vees este clamor d,la cibdad haze. Bien vees este clamor de campanas: este alarido ,clamor,e,yes,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+ vn cauallero que se llamaua C,or mi amor vn cauallero que se llamaua Calisto: el qual tu bien c,llamaua,e,yes,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,3
+"imismo sus padres, e claro l","sciste assimismo sus padres, e claro linaje. sus virtudes e bon",claro,e,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+"imismo sus padres, e claro l","sciste assimismo sus padres, e claro linaje. sus virtudes e bon",claro,e,yes,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+a e sagaz muger: que llamauan C," vna astuta e sagaz muger: que llamauan Celestina. La qual, de su ",llamauan,e,yes,a,yes,43.855161021532886,3.780892409076752,3,43.855161021532886,no,stressed,3
+n porque muero. Gran plazer l,riste razon porque muero. Gran plazer lleuo de no la ver present,plazer,n,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,0
+n porque muero. Gran plazer l,riste razon porque muero. Gran plazer lleuo de no la ver present,plazer,n,no,a,yes,1140.234186559855,7.038988947098234,78,1140.234186559855,no,stressed,31
+ada hija. Gran dolor lleuo d,alla tu amada hija. Gran dolor lleuo de mi: mayor de ti: muy ma,lleuo,r,no,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,6
+ada hija. Gran dolor lleuo d,alla tu amada hija. Gran dolor lleuo de mi: mayor de ti: muy ma,lleuo,r,no,e,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,0
+mara con grandissimo llanto: ,do a su camara con grandissimo llanto: preguntale Alisa su muger,llanto,o,yes,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,0
+mara con grandissimo llanto: ,do a su camara con grandissimo llanto: preguntale Alisa su muger,llanto,o,yes,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,2
+dazos: e haziendo su planto c,o hecho pedazos: e haziendo su planto concluye. ALISA. PLEBERIO.,planto,u,no,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+no acostumbradas: tu llanto e,us quexas no acostumbradas: tu llanto e congoxa de tanto sentimi,llanto,u,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,0
+no acostumbradas: tu llanto e,us quexas no acostumbradas: tu llanto e congoxa de tanto sentimi,llanto,u,no,a,yes,87.71032204306577,4.474039589636697,6,87.71032204306577,no,stressed,2
+ sepulcro. porque no llore y,o vayas al sepulcro. porque no llore yo solo la perdida dolorid,llore,o,yes,o,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,0
+ sepulcro. porque no llore y,o vayas al sepulcro. porque no llore yo solo la perdida dolorid,llore,o,yes,o,yes,131.56548306459865,4.879504697744862,9,131.56548306459865,no,stressed,2
+siruienta. Ayudame a llorar n,su triste siruienta. Ayudame a llorar nuestra llagada postremeri,llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+siruienta. Ayudame a llorar n,su triste siruienta. Ayudame a llorar nuestra llagada postremeri,llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+uestra llagada p,a llorar nuestra llagada postremeria. O gentes que ,llagada,a,yes,o,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+uestra llagada p,a llorar nuestra llagada postremeria. O gentes que ,llagada,a,yes,o,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,1
+ honrras? para quien plante a,en adquiri honrras? para quien plante arboles? para quien fabriq,plante,n,no,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,0
+s? dexarasme aquella florida p,"redamientos? dexarasme aquella florida planta, en quien tu poder ",florida,a,yes,o,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,2
+"s. Dierasme, fortuna flutuosa: ","r no tenias. Dierasme, fortuna flutuosa: triste la mocedad con veg",flutuosa,a,yes,u,no,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+a edad: que no en la flaca p,a e robusta edad: que no en la flaca postremeria. O vida de con,flaca,a,yes,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+a edad: que no en la flaca p,a e robusta edad: que no en la flaca postremeria. O vida de con,flaca,a,yes,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+. O vida de congoxas llena. ,ostremeria. O vida de congoxas llena. de miserias acompanada. O,llena,s,no,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,7
+. O vida de congoxas llena. ,ostremeria. O vida de congoxas llena. de miserias acompanada. O,llena,s,no,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,0
+sses sin tiempo esta flor q,no me sacasses sin tiempo esta flor que este dia echaste de tu,flor,a,yes,o,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,0
+sses sin tiempo esta flor q,no me sacasses sin tiempo esta flor que este dia echaste de tu,flor,a,yes,o,yes,233.89419211484204,5.454868842648423,16,233.89419211484204,no,stressed,2
+dan en corro. laguna llena d,res que andan en corro. laguna llena de cieno. region llena de ,llena,a,yes,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,7
+dan en corro. laguna llena d,res que andan en corro. laguna llena de cieno. region llena de ,llena,a,yes,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,0
+e cieno. region llena d,na llena de cieno. region llena de espinas. monte alto. ca,llena,a,yes,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,7
+e cieno. region llena d,na llena de cieno. region llena de espinas. monte alto. ca,llena,a,yes,e,yes,160.80225707895391,5.080175393207013,11,160.80225707895391,no,stressed,0
+mpo pedregoso. prado lleno d,e alto. campo pedregoso. prado lleno de serpientes. huerto flor,lleno,o,yes,e,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,4
+e serpientes. huerto florido e,do lleno de serpientes. huerto florido e sin fruto. fuente de cuy,florido,o,yes,e,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+. bienauenturados se llamaran q,tado dexar. bienauenturados se llamaran quando vean el galardon qu,llamaran,e,yes,a,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+" podras dezir, mundo lleno d","Pues menos podras dezir, mundo lleno de males, que fuimos semej",lleno,o,yes,e,yes,116.94709605742102,4.761721662088479,8,116.94709605742102,no,stressed,4
+ al hijo que enfermo lloraua: , rey Dauid al hijo que enfermo lloraua: muerto no quiso llorar. D,lloraua,o,yes,o,yes,14.618387007177628,2.6822801204086426,1,14.618387007177628,yes,stressed,1
+muerto no quiso llorar. , lloraua: muerto no quiso llorar. Diziendo que era quasi lo,llorar,o,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+muerto no quiso llorar. , lloraua: muerto no quiso llorar. Diziendo que era quasi lo,llorar,o,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+que era quasi locura llorar l, Diziendo que era quasi locura llorar lo irrecuperable: quedauan,llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,13
+que era quasi locura llorar l, Diziendo que era quasi locura llorar lo irrecuperable: quedauan,llorar,a,yes,o,yes,306.98612715073017,5.726802558132065,21,306.98612715073017,no,stressed,0
+", con que soldase su llaga. ","ros muchos, con que soldase su llaga. E yo no lloro triste a el",llaga,u,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,0
+", con que soldase su llaga. ","ros muchos, con que soldase su llaga. E yo no lloro triste a el",llaga,u,no,a,yes,365.4596751794407,5.901155945276844,25,365.4596751794407,no,stressed,6
+E yo no lloro t,su llaga. E yo no lloro triste a ella muerta: pero,lloro,u,no,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+E yo no lloro t,su llaga. E yo no lloro triste a ella muerta: pero,lloro,u,no,a,yes,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,5
+o me respondas si te llamo? ,e de que no me respondas si te llamo? quien me podra cobrir la ,llamo,e,yes,a,yes,73.09193503588814,4.291718032842743,5,73.09193503588814,no,stressed,3
+ que pescas nuestras flacas v,"redes, con que pescas nuestras flacas voluntades. A do me pones ",flacas,s,no,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+ que pescas nuestras flacas v,"redes, con que pescas nuestras flacas voluntades. A do me pones ",flacas,s,no,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,1
+ te curaste. Dios te llamaron o,los que no te curaste. Dios te llamaron otros: no se con que error,llamaron,e,yes,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,2
+ jamas haze senal do llega. , rayo: que jamas haze senal do llega. La lena que gasta tu llam,llega,o,yes,e,yes,716.3009633517038,6.5741004185192695,49,716.3009633517038,no,stressed,3
+La lena que gasta tu llama s,do llega. La lena que gasta tu llama son almas e vidas de human,llama,o,yes,e,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,0
+La lena que gasta tu llama s,do llega. La lena que gasta tu llama son almas e vidas de human,llama,o,yes,e,yes,1257.1812826172759,7.13662741666215,86,1257.1812826172759,no,stressed,8
+"s y lanza, azotes: y clauos s","que espinas y lanza, azotes: y clauos su sangre vertieron: los f",clauos,y,no,a,yes,29.236774014355255,3.3754273009685876,2,29.236774014355255,no,stressed,0
+ potacion porque nos lleue c,iel fue su potacion porque nos lleue con el buen ladron de dos ,lleue,s,no,e,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+ potacion porque nos lleue c,iel fue su potacion porque nos lleue con el buen ladron de dos ,lleue,s,no,e,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,2
+ mi mano turuias con claras m,es turuada mi mano turuias con claras mezclando razones dexa las,claras,n,no,a,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
+e por boca de todos: llorando y, y responde por boca de todos: llorando y riendo en tiempo y sazon,llorando,:,no,o,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,0
+e por boca de todos: llorando y, y responde por boca de todos: llorando y riendo en tiempo y sazon,llorando,:,no,o,yes,102.32870905024339,4.628190269463956,7,102.32870905024339,no,stressed,3
+ libro. Ni quiere mi pluma: ,ncipio del libro. Ni quiere mi pluma: ni manda razon que quede ,pluma,i,no,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,0
+ libro. Ni quiere mi pluma: ,ncipio del libro. Ni quiere mi pluma: ni manda razon que quede ,pluma,i,no,u,no,190.03903109330915,5.247229477870179,13,190.03903109330915,no,stressed,2
+ digna gloria: ni su claro n,mbre ni su digna gloria: ni su claro nombre cubierto de oluido ,claro,u,no,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,9
+ digna gloria: ni su claro n,mbre ni su digna gloria: ni su claro nombre cubierto de oluido ,claro,u,no,a,yes,336.22290116508543,5.817774336337792,23,336.22290116508543,no,stressed,0
+ombre: su tierra: su clara n,"anera su nombre: su tierra: su clara nacion. ""Toca como se deui",clara,u,no,a,yes,292.36774014355257,5.678012393962634,20,292.36774014355257,no,stressed,0
+ombre: su tierra: su clara n,"anera su nombre: su tierra: su clara nacion. ""Toca como se deui",clara,u,no,a,yes,292.36774014355257,5.678012393962634,20,292.36774014355257,no,stressed,3
+omo se deuia la obra llamar T,"n. ""Toca como se deuia la obra llamar Tragicomedia e no comedia.",llamar,a,yes,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,6
+omo se deuia la obra llamar T,"n. ""Toca como se deuia la obra llamar Tragicomedia e no comedia.",llamar,a,yes,a,yes,263.1309661291973,5.572651878304807,18,263.1309661291973,no,stressed,0
+traydor supplico que llores d,ste mundo traydor supplico que llores discreto lector el tragico,llores,e,yes,o,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,2
+traydor supplico que llores d,ste mundo traydor supplico que llores discreto lector el tragico,llores,e,yes,o,yes,58.47354802871051,4.068574481528533,4,58.47354802871051,no,stressed,0
