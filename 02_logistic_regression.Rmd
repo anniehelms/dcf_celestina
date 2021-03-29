@@ -1,0 +1,193 @@
+---
+title: "Discourse Context Frequency Analysis"
+author: "Annie Helms (annie_helms@berkeley.edu)"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, dev = "cairo_pdf", fig.height = 7, fig.width = 7)
+```
+
+Library packages
+
+```{r message = FALSE, warning = FALSE}
+library(r2glmm)
+library(dplyr)
+library(afex)
+library(ggplot2)
+library(lmerTest) #mixed effects linear regression
+library(ggsignif) # helps plot significant relations in ggplot2
+library(kableExtra) # formats dataframes in html output
+library(emmeans) # tukey post-hoc tests
+```
+
+### Upload data set
+We will upload a data set containing tokens of /fl-, pl-, kl-/ clusters from La Celestina. Each token is coded for:
+
+- lexical stress
+- frequency in text (log frequency in ppm)
+- frequency in favorable context (FFC)
+- favorability of preceeding phonological context
+- favorability of following phonological context
+- transmission history (oral, written)
+- Modern Spanish realization (preservation, palatalization)
+- hapax token (yes if one occurrence, no if multiple)
+
+```{r message = FALSE, echo = FALSE}
+setwd("/Users/Annie/Box Sync/PhD/github/dcf_celestina/")
+```
+
+```{r}
+data = read.csv("data/complete.csv", 
+                  stringsAsFactors = TRUE)
+head(data, 5) %>%
+  kable() %>% # piped to allow for kable formatting
+  kable_styling(bootstrap_options = c("striped", # alternates row color in table
+                                      "hover", # rows are highlighted when hovered over
+                                      "condensed", # row height is condensed
+                                      "responsive")) %>% # horizontal scrolling across table
+  scroll_box(width = "100%")
+```
+
+First we'll group the data so that each word type only contributes one row of data.
+
+```{r}
+grouped = data %>%
+  distinct(word, .keep_all = TRUE)
+```
+
+We'll also filter the data so only word types with more than one instance will be analyzed.
+
+```{r}
+grouped_mult = grouped %>%
+  filter(hapax == "no")
+```
+
+### Logistic Regression Model
+
+We'll run a stepwise fixed effects logistic regression model with the dependent variable of Modern Spanish realization `modern_spa`. The factors that will be included as independent variables in pairwise interactions are: `stress`, `freq_log_ppm`, `hapax`, `FFC`, `transmission`, `fol_fav`, and `latin_stop`.
+
+With a DV with string levels, the reference level will be `preservation`.
+
+```{r results = "hide", warning = FALSE}
+test_model = glm(modern_spa ~ stress * freq_log_ppm + stress * FFC + stress * transmission + stress * fol_fav + stress * latin_stop +
+                   freq_log_ppm * FFC + freq_log_ppm * transmission + freq_log_ppm * fol_fav + freq_log_ppm * latin_stop +
+                   FFC * transmission + FFC * fol_fav + FFC * latin_stop +
+                   transmission * fol_fav + transmission * latin_stop +
+                   fol_fav * latin_stop, data = grouped_mult, family = "binomial")
+step(test_model)
+```
+
+The results of stepwise regression indicate that in the model, `fitted probabilities numerically 0 or 1 occurred`. We'll plot transmission history to see how this variable predicts the modern realization.
+
+```{r echo=FALSE}
+trans_plot = ggplot(grouped, 
+       aes(x = transmission, 
+           fill = modern_spa)) + 
+  geom_bar(position = "fill",
+           width = 0.6) +
+  theme_classic() +
+  labs(x = "Transmission History",
+       y = "Proportion",
+       title = "") +
+  theme(plot.title = element_text(hjust = 0.5, size = 16),
+        axis.title = element_text(size = 12),
+        legend.title = element_text(size = 12),
+        legend.position = "top") +
+  guides(fill = guide_legend(title = "Modern Realization")) +
+  scale_fill_hue(labels = c("Palatalization", "Preservation")) +
+  scale_x_discrete(labels =c("Oral", "Learned"))
+  
+trans_plot
+```
+
+```{r echo = FALSE, eval = FALSE}
+cairo_pdf("transmission.pdf", family = "LM Roman 10", width = 5, height = 4)
+trans_plot
+dev.off()
+```
+
+As the level `learned` categorically occurrs with preservation, we'll get a subset of the data in order to look at what factors predict realization among orally-tranmitted words.
+
+```{r}
+zero_one = grouped_mult %>%
+  filter(transmission=="oral") %>%
+  mutate(dv = case_when(modern_spa =="palatalization" ~ 0,
+                        modern_spa =="preservation" ~ 1))
+as.integer(zero_one$dv)
+```
+
+The factor `fol_fav` is imbalanced across the levels of the DV so we will drop it from the model.
+
+```{r results="hide", warning = FALSE}
+test_model_2 = glm(dv ~ freq_log_ppm * FFC * latin_stop, data = zero_one, family = "binomial")
+step(test_model_2)
+```
+
+```{r}
+model_new = glm(dv ~ FFC + latin_stop + FFC:latin_stop, family = "binomial", 
+    data = zero_one)
+summary(model_new)
+```
+
+```{r}
+int = exp(0)/(1+exp(0))
+prob_highffc = (exp(-4.208e+00)/(1+exp(-4.208e+00)))
+prob_lowffc = (exp(-4.208e+00*0.1)/(1+exp(-4.208e+00*0.1)))
+int
+prob_highffc
+prob_lowffc
+```
+
+Based on this model, when the FFC is high, the probability of preservation is 1.4%. When the FFC is low, the probability of preservation is 40%. 
+
+```{r echo=FALSE, message=FALSE}
+ffc_log_plt = ggplot(zero_one, aes(x=FFC, y=dv)) +
+  geom_point() + 
+  stat_smooth(method="glm", method.args=list(family="binomial"), se=TRUE) +
+  theme_classic() +
+  labs(x = "Frequency in Favorable Context (FFC)",
+       y = "Probability of Preservation",
+       title = "") +
+  xlim(0,1) +
+  ylim(0,1) +
+  theme(plot.title = element_text(hjust = 0.5, size = 16),
+        axis.title = element_text(size = 12),
+        legend.text = element_text(size = 12),
+        legend.title = element_text(size = 14),
+        legend.position = c(0.2,0.2),
+        legend.background = element_rect(fill = "transparent", colour = NA),
+        legend.box.background = element_rect(fill = "transparent", colour = NA))
+ffc_log_plt
+```
+
+```{r echo = FALSE, eval = FALSE}
+cairo_pdf("ffc.pdf", family = "LM Roman 10", width = 5, height = 4)
+ffc_log_plt
+dev.off()
+```
+
+```{r echo = FALSE}
+ffc_stop_plot = ggplot(data = zero_one,
+                  aes(x = latin_stop,
+                      y = FFC,
+                      color = modern_spa)) + 
+  geom_boxplot()
+ffc_stop_plot
+```
+
+The effect of FFC is strongest in words from the Latin cluster /cl-/.
+
+```{r}
+stop_result = grouped_mult %>%
+  group_by(latin_stop, modern_spa) %>%
+  summarize(count = n())
+stop_result
+```
+
