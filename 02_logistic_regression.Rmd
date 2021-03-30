@@ -177,9 +177,31 @@ dev.off()
 ffc_stop_plot = ggplot(data = zero_one,
                   aes(x = latin_stop,
                       y = FFC,
-                      color = modern_spa)) + 
-  geom_boxplot()
+                      fill = modern_spa)) + 
+  geom_boxplot() +
+  theme_classic() +
+  labs(x = "Latin Cluster",
+       y = "FFC",
+       title = "") +
+  ylim(0,1) +
+  guides(fill = guide_legend(title = "")) +
+  scale_fill_hue(labels = c("Palatalization", "Preservation"))+
+  scale_x_discrete(labels=c("/kl-/", "/fl-/", "/pl-/")) +
+  theme(plot.title = element_text(hjust = 0.5, size = 16),
+        axis.title = element_text(size = 12),
+        axis.text = element_text(size = 10),
+        legend.text = element_text(size = 12),
+        legend.title = element_text(size = 14),
+        legend.position = "top",
+        legend.background = element_rect(fill = "transparent", colour = NA),
+        legend.box.background = element_rect(fill = "transparent", colour = NA))
 ffc_stop_plot
+```
+
+```{r echo = FALSE, eval = FALSE}
+cairo_pdf("ffc_stop.pdf", family = "LM Roman 10", width = 5, height = 4)
+ffc_stop_plot
+dev.off()
 ```
 
 The effect of FFC is strongest in words from the Latin cluster /cl-/.
