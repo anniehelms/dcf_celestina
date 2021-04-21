@@ -55,11 +55,19 @@ head(data, 5) %>%
   scroll_box(width = "100%")
 ```
 
-First we'll group the data so that each word type only contributes one row of data.
+First we'll separate words into word types by creating a new factor `type`.
+
+```{r}
+data = data %>%
+  group_by(word, latin_stop)%>%
+  mutate(type = paste(word, latin_stop, sep='_'))
+```
+
+Next, group the data so that each word type only contributes one row of data.
 
 ```{r}
 grouped = data %>%
-  distinct(word, .keep_all = TRUE)
+  distinct(type, .keep_all = TRUE)
 ```
 
 We'll also filter the data so only word types with more than one instance will be analyzed.
@@ -67,6 +75,10 @@ We'll also filter the data so only word types with more than one instance will b
 ```{r}
 grouped_mult = grouped %>%
   filter(hapax == "no")
+```
+
+```{r}
+dim(grouped_mult)
 ```
 
 ### Logistic Regression Model
@@ -82,6 +94,13 @@ test_model = glm(modern_spa ~ stress * freq_log_ppm + stress * FFC + stress * tr
                    transmission * fol_fav + transmission * latin_stop +
                    fol_fav * latin_stop, data = grouped_mult, family = "binomial")
 step(test_model)
+```
+
+```{r}
+best = glm(formula = modern_spa ~ stress + freq_log_ppm + FFC + transmission + 
+    fol_fav + latin_stop + stress:freq_log_ppm + stress:FFC + 
+    FFC:latin_stop, family = "binomial", data = grouped_mult)
+summary(best)
 ```
 
 The results of stepwise regression indicate that in the model, `fitted probabilities numerically 0 or 1 occurred`. We'll plot transmission history to see how this variable predicts the modern realization.
@@ -113,7 +132,7 @@ trans_plot
 dev.off()
 ```
 
-As the level `learned` categorically occurrs with preservation, we'll get a subset of the data in order to look at what factors predict realization among orally-tranmitted words.
+As the level `learned` categorically occurrs with preservation, we'll get a subset of the data in order to look at what factors predict realization among orally-transmitted words.
 
 ```{r}
 zero_one = grouped_mult %>%
@@ -204,7 +223,7 @@ ffc_stop_plot
 dev.off()
 ```
 
-The effect of FFC is strongest in words from the Latin cluster /cl-/.
+The effect of FFC is strongest in words from the Latin cluster /kl-/.
 
 ```{r}
 stop_result = grouped_mult %>%
