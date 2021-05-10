@@ -164,6 +164,10 @@ prob_highffc
 prob_lowffc
 ```
 
+```{r}
+emmeans(model_new, list(pairwise ~ FFC*latin_stop), adjust = "Tukey")
+```
+
 Based on this model, when the FFC is high, the probability of preservation is 1.4%. When the FFC is low, the probability of preservation is 40%. 
 
 ```{r echo=FALSE, message=FALSE}
