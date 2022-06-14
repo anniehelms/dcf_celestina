@@ -1,4 +1,4 @@
-# dcf_celestina
+# Discourse Context Frequency - A usage-based account for phonological change
 This project examines the role of discourse context frequency versus transmission history in the modern Spanish realization of Latin /pl-, fl-, kl-/ clusters, using phonological contexts in La Celestina (de Rojas, 1998).
 
 References:
